@@ -1,6 +1,10 @@
-<div align="center"><img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=FFFFFF&text=Mahmoud&fontColor=000000&fontSize=72&fontAlignY=42&desc=DEVELOPER%20%E2%80%A2%20DESIGNER%20%E2%80%A2%20BUILDER&descAlignY=64&descSize=19&descColor=000000" width="100%" alt="Mahmoud"/><br><br>
+<div align="center">
 
-<img src="https://i.postimg.cc/xCs7W0ng/IMG-20260819-WA0024-1.jpg" width="180" height="180" style="border-radius:50%; object-fit:cover;" alt="Mahmoud"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=FFFFFF&text=Mahmoud&fontColor=000000&fontSize=72&fontAlignY=42&desc=DEVELOPER%20%E2%80%A2%20DESIGNER%20%E2%80%A2%20BUILDER&descAlignY=64&descSize=19&descColor=000000" width="100%" alt="Mahmoud"/>
+
+<br><br>
+
+<img src="https://i.postimg.cc/xCs7W0ng/IMG-20260819-WA0024-1.jpg" width="180" height="180" style="border-radius:50%;" alt="Mahmoud"/>
 
 <br><br>
 
@@ -8,12 +12,20 @@
 
 **Developer · Designer · Builder**
 
-<p><strong>I build software, experiment with AI,<br>and turn ideas into real products.</strong></p>
+<p>
+<strong>
+I build software, experiment with AI,<br>
+and turn ideas into real products.
+</strong>
+</p>
 
-<a href="https://github.com/v01dst"><img src="https://img.shields.io/badge/GitHub-v01dst-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
-<a href="https://github.com/v01dst?tab=repositories"><img src="https://img.shields.io/badge/Projects-181717?style=for-the-badge&logo=github&logoColor=white" alt="Projects"/></a>
+<a href="https://github.com/v01dst">GitHub</a>
+&nbsp;·&nbsp;
+<a href="https://github.com/v01dst?tab=repositories">Projects</a>
 
 </div>
+
+---
 
 ## About Me
 
@@ -21,9 +33,11 @@ I'm Mahmoud, a developer and designer who enjoys building things from scratch.
 
 I spend most of my time exploring **Artificial Intelligence, software development, cybersecurity, product design, and startups.**
 
-I learn by building. If I don't know how something works, I build something that forces me to find out.
+I learn by building.
 
-<br>
+If I don't know how something works, I build something that forces me to find out.
+
+---
 
 ## What I'm Building
 
@@ -43,119 +57,128 @@ Focused on CLI workflows, automation, agent tooling, and developer infrastructur
 
 **AI · Agents · CLI · Automation**
 
-<br>
+---
 
 ## Tech Stack
 
-<p align="center"><img src="https://skillicons.dev/icons?i=python,javascript,typescript,react,nextjs,nodejs,tailwind,rust,go,c,cpp,git,github,linux,figma,blender&perline=8" alt="Tech Stack"/></p>
+<div align="center">
 
-<br>
+<img src="https://skillicons.dev/icons?i=python,javascript,typescript,react,nextjs,nodejs,tailwind,rust,go,c,cpp,git,github,linux,figma,blender&perline=8" alt="Tech Stack"/>
+
+</div>
+
+---
 
 ## Interests
 
 <div align="center">
 
-**Artificial Intelligence**  
+### Artificial Intelligence
+
 LLMs · AI Agents · Model Architecture · Automation
 
-**Software**  
+### Software
+
 Web Development · Developer Tools · CLI · Linux
 
-**Design**  
+### Design
+
 UI/UX · Product Design · Branding · Motion · 3D
 
-**Cybersecurity**  
+### Cybersecurity
+
 Web Security · Networking · Linux · Ethical Hacking
 
 </div>
 
-<br>
+---
 
 ## Currently Exploring
 
-<p align="center">
+**AI Systems**
 
-**AI Systems**  
 Understanding modern AI and building with agentic systems.
 
-<br><br>
+**Cybersecurity**
 
-**Cybersecurity**  
 Learning security from Linux and networking upward.
 
-<br><br>
+**Product Development**
 
-**Product Development**  
 Learning how ideas become products, not just how products get coded.
 
-</p>
-
-<br>
+---
 
 ## GitHub
 
 <div align="center">
 
-<a href="https://github.com/v01dst?tab=repositories"><img src="https://img.shields.io/github/repos/v01dst?style=for-the-badge&label=Repositories" alt="Repositories"/></a>
-<a href="https://github.com/v01dst?tab=followers"><img src="https://img.shields.io/github/followers/v01dst?style=for-the-badge&label=Followers" alt="Followers"/></a>
-<a href="https://github.com/v01dst?tab=stars"><img src="https://img.shields.io/github/stars/v01dst?style=for-the-badge&label=Stars" alt="Stars"/></a>
+<img src="https://github-readme-stats.vercel.app/api?username=v01dst&show_icons=true&hide_border=true&theme=github_dark&rank_icon=github" height="190" alt="GitHub Statistics"/>
 
 <br><br>
 
-<img src="https://github-stats-extended.vercel.app/api?username=v01dst&show_icons=true&theme=github_dark&hide_border=true" height="190" alt="GitHub Statistics"/>
+<a href="https://github.com/v01dst?tab=repositories">
+View all repositories →
+</a>
 
 </div>
 
-<br>
+---
 
 ## Languages Across My Repositories
 
-> Automatically generated from the language statistics of my public repositories.
+The percentages below are calculated from the actual language statistics of my repositories.
 
 <!-- LANGUAGES:START -->
 
-<div align="center">Updating repository language statistics...</div>
+<div align="center">
+
+Updating repository language statistics...
+
+</div>
 
 <!-- LANGUAGES:END -->
 
-<br>
+---
 
 ## How I Build
 
 <div align="center">
 
-**IDEA**
+### IDEA
 
 ↓
 
-**BUILD**
+### BUILD
 
 ↓
 
-**BREAK**
+### BREAK
 
 ↓
 
-**LEARN**
+### LEARN
 
 ↓
 
-**REBUILD**
+### REBUILD
 
 </div>
 
-<br>
+---
 
 <div align="center">
 
 **build something worth keeping.**
 
-<br>
+<br><br>
 
-<a href="https://github.com/v01dst?tab=repositories"><img src="https://img.shields.io/badge/EXPLORE_MY_PROJECTS-111111?style=for-the-badge&logo=github&logoColor=white" alt="Explore Projects"/></a>
+<a href="https://github.com/v01dst?tab=repositories">
+Explore my projects →
+</a>
 
 <br><br>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=FFFFFF&fontColor=000000" width="100%" alt="Footer"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=FFFFFF" width="100%" alt="Footer"/>
 
 </div>
