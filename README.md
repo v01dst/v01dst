@@ -13,8 +13,10 @@ Mahmoud
 Developer · Designer · Builder
 
 <p>
-  <strong>I build software, experiment with AI,<br>
-  and turn ideas into real products.</strong>
+<strong>
+I build software, experiment with AI,<br>
+and turn ideas into real products.
+</strong>
 </p><br><a href="https://github.com/v01dst">
 <img src="https://img.shields.io/badge/GitHub-v01dst-181717?style=for-the-badge&logo=github&logoColor=white" />
 </a><a href="https://github.com/v01dst?tab=repositories">
@@ -79,17 +81,32 @@ Web Security · Networking · Linux · Ethical Hacking
 <br>Currently Exploring
 
 <div align="center">AI Systems
+
 Building a deeper understanding of modern AI and agentic systems.
 
 <br>Cybersecurity
+
 Learning security from the fundamentals of Linux and networking upward.
 
 <br>Product Development
+
 Learning how ideas become products — not just how products get coded.
 
 </div><br>GitHub
 
-<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=v01dst&show_icons=true&hide_border=true&theme=github_dark&rank_icon=github" height="180"/><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=v01dst&layout=compact&hide_border=true&theme=github_dark" height="180"/></div><br>How I Build
+<div align="center"><img
+src="https://github-readme-stats.vercel.app/api?username=v01dst&show_icons=true&hide_border=true&theme=github_dark&rank_icon=github"
+height="190"
+alt="GitHub Statistics"
+/>
+
+<img
+src="https://github-readme-stats.vercel.app/api/top-langs/?username=v01dst&layout=compact&hide_border=true&theme=github_dark"
+height="190"
+alt="Top Languages"
+/>
+
+</div><br>How I Build
 
 <div align="center">IDEA
 
