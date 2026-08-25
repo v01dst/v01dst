@@ -1,4 +1,12 @@
-<div align="center">v01dst
+<div align="center"><img
+src="https://i.postimg.cc/xCs7W0ng/IMG-20260819-WA0024-1.jpg"
+width="150"
+height="150"
+style="border-radius:50%; object-fit:cover;"
+alt="Mahmoud"
+/>
+
+v01dst
 
 developer · designer · builder
 
@@ -39,18 +47,18 @@ AI · CLI · Automation · Developer Tools
 stack
 
 <p>
-  <img src="https://cdn.simpleicons.org/python" width="40" alt="Python"/>
-  <img src="https://cdn.simpleicons.org/javascript" width="40" alt="JavaScript"/>
-  <img src="https://cdn.simpleicons.org/typescript" width="40" alt="TypeScript"/>
-  <img src="https://cdn.simpleicons.org/react" width="40" alt="React"/>
-  <img src="https://cdn.simpleicons.org/nextdotjs/white" width="40" alt="Next.js"/>
-  <img src="https://cdn.simpleicons.org/nodedotjs" width="40" alt="Node.js"/>
-  <img src="https://cdn.simpleicons.org/tailwindcss" width="40" alt="Tailwind CSS"/>
-  <img src="https://cdn.simpleicons.org/git" width="40" alt="Git"/>
-  <img src="https://cdn.simpleicons.org/github/white" width="40" alt="GitHub"/>
-  <img src="https://cdn.simpleicons.org/linux/white" width="40" alt="Linux"/>
-  <img src="https://cdn.simpleicons.org/figma" width="40" alt="Figma"/>
-  <img src="https://cdn.simpleicons.org/blender" width="40" alt="Blender"/>
+  <img src="https://cdn.simpleicons.org/python" width="38" alt="Python"/>
+  <img src="https://cdn.simpleicons.org/javascript" width="38" alt="JavaScript"/>
+  <img src="https://cdn.simpleicons.org/typescript" width="38" alt="TypeScript"/>
+  <img src="https://cdn.simpleicons.org/react" width="38" alt="React"/>
+  <img src="https://cdn.simpleicons.org/nextdotjs" width="38" alt="Next.js"/>
+  <img src="https://cdn.simpleicons.org/nodedotjs" width="38" alt="Node.js"/>
+  <img src="https://cdn.simpleicons.org/tailwindcss" width="38" alt="Tailwind CSS"/>
+  <img src="https://cdn.simpleicons.org/git" width="38" alt="Git"/>
+  <img src="https://cdn.simpleicons.org/github" width="38" alt="GitHub"/>
+  <img src="https://cdn.simpleicons.org/linux" width="38" alt="Linux"/>
+  <img src="https://cdn.simpleicons.org/figma" width="38" alt="Figma"/>
+  <img src="https://cdn.simpleicons.org/blender" width="38" alt="Blender"/>
 </p>---
 
 interests
