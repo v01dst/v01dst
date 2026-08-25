@@ -1,119 +1,147 @@
-# Mahmoud Ahmed
+<div align="center"><img src="https://capsule-render.vercel.app/api?type=waving&height=180&color=0:0D0D0D,100:242424&text=v01dst&fontColor=FFFFFF&fontSize=58&fontAlignY=40&desc=Developer%20%E2%80%A2%20Designer%20%E2%80%A2%20Builder&descAlignY=63&descSize=17" width="100%"/><br><a href="https://github.com/v01dst">
+  <img src="https://img.shields.io/badge/GitHub-v01dst-111111?style=flat-square&logo=github&logoColor=white" />
+</a>
+<a href="https://github.com/v01dst?tab=repositories">
+  <img src="https://img.shields.io/badge/Projects-111111?style=flat-square&logo=github&logoColor=white" />
+</a></div><br>"whoami"
 
-<div align="center">
-  <h3>v01dst</h3>
-  <p>developer · designer · builder</p>
-</div>
+I'm Mahmoud — a developer, designer, and builder.
 
----
+I like taking an idea from a blank page and turning it into something real.
 
-### about
+My interests sit around:
 
-My name is Mahmoud.
+AI              Artificial Intelligence & AI Agents
+Software        Web Development & Developer Tools
+Security        Cybersecurity & Linux
+Design          UI/UX, Branding & Product Design
+Creative        3D, Motion & Visual Experiments
+Business        Startups, SaaS & Product Building
 
-I'm a developer, designer, and builder who learns by actually building things rather than only studying theory.
-
-I frequently experiment with new technologies, frameworks, AI models, developer tools, and ideas.
-
-I enjoy taking an idea from nothing and turning it into an actual working product.
-
-I'm especially interested in the intersection between AI, software, design, products, and entrepreneurship.
-
----
-
-### interests
-
-- Artificial Intelligence
-- AI agents
-- Web development
-- Software engineering
-- Cybersecurity
-- Developer tools
-- UI/UX and product design
-- 3D modeling
-- Automation
-- Open source
-- Startups and entrepreneurship
+I learn mostly by building — when I need something I don't know, I go learn it.
 
 ---
 
-### current projects
+"what i'm building"
 
-**Kernl**
+Kernl
 
-Kernl is one of my main projects.
+An AI-powered platform built around the journey from startup idea → real product.
 
-The idea is an AI-powered platform that helps startups go from an idea to an actual product.
+The vision combines AI agents, product strategy, architecture, UI/UX, branding, development, automation, and growth into one workflow.
 
-The vision includes:
-- analyzing startup ideas
-- product strategy
-- MVP planning
-- architecture
-- UI/UX
-- branding
-- development
-- AI agents
-- marketing
-- product workflows
-- automation
+«The goal isn't to build another AI wrapper.
+It's to build infrastructure around building products.»
 
-The platform is designed to work with different AI providers rather than being locked to one model.
-
-I want Kernl to eventually become a serious product and company rather than just another AI wrapper.
+Exploring: "AI" "Agents" "SaaS" "Product Development" "Automation"
 
 ---
 
-**AgentForge**
+AgentForge
 
-AgentForge is another project I'm working on.
+Developer tooling focused on AI agents, CLI workflows, automation, and agent infrastructure.
 
-It's focused on AI agents and developer tooling.
-
-The goal is to make working with AI agents easier for developers, including CLI-based workflows, automation, tools, and agent infrastructure.
+Exploring: "AI Agents" "CLI" "Automation" "Developer Tools"
 
 ---
 
-### technology stack
+"stack"
 
-**Languages**
+Languages
 
-[![My Skills](https://skillicons.dev/icons?i=python,javascript,typescript,html,css)](https://skillicons.dev)
+<p>
+<img src="https://skillicons.dev/icons?i=python,js,ts,html,css" />
+</p>Development
 
-**Frontend**
+<p>
+<img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,tailwind,vite,git,github,linux" />
+</p>Design & Creative
 
-[![My Skills](https://skillicons.dev/icons?i=react,nextjs,vite,tailwind)](https://skillicons.dev)
+<p>
+<img src="https://skillicons.dev/icons?i=figma,blender" />
+</p>---
 
-**Backend / Runtime**
+"ai"
 
-[![My Skills](https://skillicons.dev/icons?i=nodejs)](https://skillicons.dev)
+AI is one of the areas I spend the most time exploring.
 
-**Tools**
+I'm interested in what happens under the hood — not just using models through an API.
 
-[![My Skills](https://skillicons.dev/icons?i=git,github,linux,ubuntu,vercel,cloudflare)](https://skillicons.dev)
+LLMs
+Parameters
+Training
+Inference
+Multimodal Models
+AI Agents
+Tool Calling
+Model Routing
+Local Models
+AI Infrastructure
 
-**Design**
-
-[![My Skills](https://skillicons.dev/icons?i=figma,blender)](https://skillicons.dev)
-
-**AI**
-
-[![My Skills](https://skillicons.dev/icons?i=openai,anthropic,gemini)](https://skillicons.dev)
-
-**Creative / Media**
-
-[![My Skills](https://skillicons.dev/icons?i=remotion)](https://skillicons.dev)
+I experiment with different models and providers, paying attention to capability, cost, latency, and real-world usefulness.
 
 ---
 
-### technologies I've experimented with around Kernl
+"design"
 
-[![My Skills](https://skillicons.dev/icons?i=react,nextjs,typescript,javascript,nodejs,python,tailwind,vercel,cloudflare,openai,figma,github,linux)](https://skillicons.dev)
+I don't see design as something separate from development.
+
+I use Figma for interfaces, product design, and visual systems, and Blender for 3D experiments.
+
+Things I care about:
+
+"Typography" · "Layout" · "Interaction" · "Motion" · "Branding" · "Visual Systems"
 
 ---
 
-### AI interests
+"currently_learning"
 
+→ Advanced AI & Agentic Systems
+→ Cybersecurity
+→ System Design
+→ Linux & Networking
+→ Advanced Web Development
+→ 3D & Motion
+
+---
+
+"github stats"
+
+<div align="center"><img height="170" src="https://github-readme-stats.vercel.app/api?username=v01dst&show_icons=true&hide_border=true&theme=github_dark&rank_icon=github" /><img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=v01dst&layout=compact&hide_border=true&theme=github_dark" /><br><br>
+
+<img src="https://streak-stats.demolab.com?user=v01dst&theme=github-dark-blue&hide_border=true" /></div>---
+
+"the_long_game"
+
+I don't want to only write code.
+
+I want to understand how the whole thing works:
+
+IDEA
+  ↓
+RESEARCH
+  ↓
+DESIGN
+  ↓
+BUILD
+  ↓
+SHIP
+  ↓
+ITERATE
+  ↓
+PRODUCT
+  ↓
+COMPANY
+
+---
+
+<div align="center"><br>"build. break. learn. rebuild."
+
+<br><a href="https://github.com/v01dst">
+  <img src="https://img.shields.io/badge/Follow%20the%20journey-111111?style=for-the-badge&logo=github&logoColor=white" />
+</a><br><br>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=100&section=footer&color=0:242424,100:0D0D0D" width="100%"/></div>
 AI is one of my biggest interests.
 
 I'm interested in understanding:
