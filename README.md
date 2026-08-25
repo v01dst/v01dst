@@ -108,10 +108,6 @@ Learning how ideas become products, not just how products get coded.
 
 <br>
 
-## Languages Across My Repositories
-
-> Automatically generated from the language statistics of my public repositories.
-
 <!-- LANGUAGES:START -->
 
 <div align="center">Updating repository language statistics...</div>
