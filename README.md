@@ -2,15 +2,15 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=FFFFFF&text=Mahmoud&fontColor=000000&fontSize=72&fontAlignY=42&desc=DEVELOPER%20%E2%80%A2%20DESIGNER%20%E2%80%A2%20BUILDER&descAlignY=64&descSize=19&descColor=000000" width="100%" alt="Mahmoud"/>
 
-<br><br>
+<br>
 
 <img src="https://i.postimg.cc/xCs7W0ng/IMG-20260819-WA0024-1.jpg" width="180" height="180" style="border-radius:50%;" alt="Mahmoud"/>
 
 <br><br>
 
-# Mahmoud
+<h1>Mahmoud</h1>
 
-**Developer · Designer · Builder**
+<h3>Developer · Designer · Builder</h3>
 
 <p>
 <strong>
@@ -19,47 +19,70 @@ and turn ideas into real products.
 </strong>
 </p>
 
-<a href="https://github.com/v01dst">GitHub</a>
-&nbsp;·&nbsp;
-<a href="https://github.com/v01dst?tab=repositories">Projects</a>
+<p>
+<a href="https://github.com/v01dst">
+<img src="https://img.shields.io/badge/GitHub-v01dst-111111?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+</a>
+
+<a href="https://github.com/v01dst?tab=repositories">
+<img src="https://img.shields.io/badge/Projects-111111?style=for-the-badge&logo=github&logoColor=white" alt="Projects"/>
+</a>
+</p>
 
 </div>
 
 ---
 
-## About Me
+<h2>About Me</h2>
 
+<p>
 I'm Mahmoud, a developer and designer who enjoys building things from scratch.
+</p>
 
-I spend most of my time exploring **Artificial Intelligence, software development, cybersecurity, product design, and startups.**
+<p>
+I spend most of my time exploring
+<strong>Artificial Intelligence, software development, cybersecurity, product design, and startups.</strong>
+</p>
 
-I learn by building.
-
-If I don't know how something works, I build something that forces me to find out.
+<p>
+I learn by building. If I don't know how something works, I build something that forces me to find out.
+</p>
 
 ---
 
-## What I'm Building
+<h2>What I'm Building</h2>
 
-### Kernl
+<h3>Kernl</h3>
 
+<p>
 An AI-powered platform for turning startup ideas into real products.
+</p>
 
+<p>
 Kernl brings together AI agents, product strategy, architecture, UI/UX, branding, development, automation, and growth into one workflow.
+</p>
 
-**AI · Agents · SaaS · Product Development**
+<p>
+<strong>AI · Agents · SaaS · Product Development</strong>
+</p>
 
-### AgentForge
+<h3>AgentForge</h3>
 
+<p>
 Developer tooling for building and working with AI agents.
+</p>
 
+<p>
 Focused on CLI workflows, automation, agent tooling, and developer infrastructure.
+</p>
 
-**AI · Agents · CLI · Automation**
+<p>
+<strong>AI · Agents · CLI · Automation</strong>
+</p>
 
 ---
 
-## Tech Stack
+<h2>Tech Stack</h2>
 
 <div align="center">
 
@@ -69,71 +92,91 @@ Focused on CLI workflows, automation, agent tooling, and developer infrastructur
 
 ---
 
-## Interests
+<h2>Interests</h2>
 
 <div align="center">
 
-### Artificial Intelligence
+<h3>Artificial Intelligence</h3>
 
-LLMs · AI Agents · Model Architecture · Automation
+<p><strong>LLMs · AI Agents · Model Architecture · Automation</strong></p>
 
-### Software
+<h3>Software</h3>
 
-Web Development · Developer Tools · CLI · Linux
+<p><strong>Web Development · Developer Tools · CLI · Linux</strong></p>
 
-### Design
+<h3>Design</h3>
 
-UI/UX · Product Design · Branding · Motion · 3D
+<p><strong>UI/UX · Product Design · Branding · Motion · 3D</strong></p>
 
-### Cybersecurity
+<h3>Cybersecurity</h3>
 
-Web Security · Networking · Linux · Ethical Hacking
+<p><strong>Web Security · Networking · Linux · Ethical Hacking</strong></p>
 
 </div>
 
 ---
 
-## Currently Exploring
+<h2>Currently Exploring</h2>
 
-**AI Systems**
+<h3>AI Systems</h3>
 
+<p>
 Understanding modern AI and building with agentic systems.
+</p>
 
-**Cybersecurity**
+<h3>Cybersecurity</h3>
 
+<p>
 Learning security from Linux and networking upward.
+</p>
 
-**Product Development**
+<h3>Product Development</h3>
 
+<p>
 Learning how ideas become products, not just how products get coded.
+</p>
 
 ---
 
-## GitHub
+<h2>GitHub</h2>
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=v01dst&show_icons=true&hide_border=true&theme=github_dark&rank_icon=github" height="190" alt="GitHub Statistics"/>
-
-<br><br>
-
+<p>
 <a href="https://github.com/v01dst?tab=repositories">
-View all repositories →
+<img src="https://img.shields.io/github/repos/v01dst?style=for-the-badge&label=Repositories&color=111111" alt="Repositories"/>
 </a>
 
+<a href="https://github.com/v01dst?tab=followers">
+<img src="https://img.shields.io/github/followers/v01dst?style=for-the-badge&label=Followers&color=111111" alt="Followers"/>
+</a>
+</p>
+
+<br>
+
+<img src="https://github-readme-stats.vercel.app/api?username=v01dst&show_icons=true&hide_border=true&theme=github_dark&rank_icon=github&include_all_commits=true" height="190" alt="GitHub Statistics"/>
+
+&nbsp;&nbsp;
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=v01dst&layout=compact&hide_border=true&theme=github_dark&langs_count=8&size_weight=0.5&count_weight=0.5" height="190" alt="Top Languages"/>
+
 </div>
 
 ---
 
-## Languages Across My Repositories
+<h2>Languages Across My Repositories</h2>
 
+<p>
+<strong>
 The percentages below are calculated from the actual language statistics of my repositories.
+</strong>
+</p>
 
 <!-- LANGUAGES:START -->
 
 <div align="center">
 
-Updating repository language statistics...
+<p><strong>Repository language statistics are updated automatically.</strong></p>
 
 </div>
 
@@ -141,27 +184,27 @@ Updating repository language statistics...
 
 ---
 
-## How I Build
+<h2>How I Build</h2>
 
 <div align="center">
 
-### IDEA
+<h3>IDEA</h3>
 
 ↓
 
-### BUILD
+<h3>BUILD</h3>
 
 ↓
 
-### BREAK
+<h3>BREAK</h3>
 
 ↓
 
-### LEARN
+<h3>LEARN</h3>
 
 ↓
 
-### REBUILD
+<h3>REBUILD</h3>
 
 </div>
 
@@ -169,12 +212,12 @@ Updating repository language statistics...
 
 <div align="center">
 
-**build something worth keeping.**
+<h2>build something worth keeping.</h2>
 
-<br><br>
+<br>
 
 <a href="https://github.com/v01dst?tab=repositories">
-Explore my projects →
+<img src="https://img.shields.io/badge/EXPLORE_MY_PROJECTS-111111?style=for-the-badge&logo=github&logoColor=white" alt="Explore Projects"/>
 </a>
 
 <br><br>
