@@ -1,4 +1,4 @@
-<div align="center"><img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:0B0B0B,50:161616,100:2A2A2A&text=v01dst&fontColor=FFFFFF&fontSize=72&fontAlignY=42&desc=DEVELOPER%20%E2%80%A2%20DESIGNER%20%E2%80%A2%20BUILDER&descAlignY=64&descSize=19" width="100%" alt="v01dst"/><br><br>
+<div align="center"><img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=FFFFFF&text=Mahmoud&fontColor=000000&fontSize=72&fontAlignY=42&desc=DEVELOPER%20%E2%80%A2%20DESIGNER%20%E2%80%A2%20BUILDER&descAlignY=64&descSize=19&descColor=000000" width="100%" alt="Mahmoud"/><br><br>
 
 <img
 src="https://i.postimg.cc/xCs7W0ng/IMG-20260819-WA0024-1.jpg"
@@ -29,7 +29,7 @@ I'm Mahmoud, a developer and designer who enjoys building things from scratch.
 
 I spend most of my time exploring Artificial Intelligence, software development, cybersecurity, product design, and startups.
 
-I learn by building — if I don't know how something works, I build something that forces me to find out.
+I learn by building. If I don't know how something works, I build something that forces me to find out.
 
 <br>What I'm Building
 
@@ -39,27 +39,27 @@ An AI-powered platform for turning startup ideas into real products.
 
 Kernl brings together AI agents, product strategy, architecture, UI/UX, branding, development, automation, and growth into one workflow.
 
-<br>"AI" · "Agents" · "SaaS" · "Product Development"
-
-<br>AgentForge
+<p>
+<strong>AI · Agents · SaaS · Product Development</strong>
+</p><br>AgentForge
 
 Developer tooling for building and working with AI agents.
 
 Focused on CLI workflows, automation, agent tooling, and developer infrastructure.
 
-<br>"AI" · "Agents" · "CLI" · "Automation"
+<p>
+<strong>AI · Agents · CLI · Automation</strong>
+</p><br>Tech Stack
 
-<br>Tech Stack
+<p align="center"><img src="https://skillicons.dev/icons?i=python,javascript,typescript,react,nextjs,nodejs,tailwind,git,github,linux,figma,blender&perline=6" alt="Tech Stack"/></p><br>Interests
 
-<p align="center"><img src="https://skillicons.dev/icons?i=python,javascript,typescript,react,nextjs,nodejs,tailwind,git,github,linux,figma,blender&perline=6" alt="Tech Stack"/></p><br>What I'm Into
+<div align="center">Artificial Intelligence
 
-Artificial Intelligence
-
-LLMs · AI Agents · Model Architecture · Inference · Automation
+LLMs · AI Agents · Model Architecture · Automation
 
 Software
 
-Web Development · Developer Tools · CLI · Linux · Open Source
+Web Development · Developer Tools · CLI · Linux
 
 Design
 
@@ -69,21 +69,22 @@ Cybersecurity
 
 Web Security · Networking · Linux · Ethical Hacking
 
-<br>Currently Exploring
+</div><br>Currently Exploring
 
-<div align="center">AI Systems
-
+<p align="center">AI Systems
 Understanding modern AI and building with agentic systems.
 
-<br>Cybersecurity
+<br><br>
 
+Cybersecurity
 Learning security from Linux and networking upward.
 
-<br>Product Development
+<br><br>
 
-Learning how ideas become products — not just how products get coded.
+Product Development
+Learning how ideas become products, not just how products get coded.
 
-</div><br>GitHub
+</p><br>GitHub
 
 <div align="center"><img
 src="https://github-stats-extended.vercel.app/api?username=v01dst&show_icons=true&theme=github_dark&hide_border=true"
@@ -117,10 +118,10 @@ LEARN
 
 REBUILD
 
-</div><br><div align="center">"build something worth keeping."
+</div><br><div align="center">build something worth keeping.
 
 <br><a href="https://github.com/v01dst?tab=repositories">
-<img src="https://img.shields.io/badge/EXPLORE%20MY%20PROJECTS-111111?style=for-the-badge&logo=github&logoColor=white" alt="Explore Projects"/>
+<img src="https://img.shields.io/badge/EXPLORE_MY_PROJECTS-111111?style=for-the-badge&logo=github&logoColor=white" alt="Explore Projects"/>
 </a><br><br>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:2A2A2A,100:0B0B0B" width="100%" alt="Footer"/></div>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=FFFFFF&fontColor=000000" width="100%" alt="Footer"/></div>
