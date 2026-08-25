@@ -1,49 +1,85 @@
 <div align="center">v01dst
 
-building software, experimenting with AI, and turning ideas into products.
+developer · designer · builder
 
-<br>""GitHub" (https://img.shields.io/badge/GitHub-111111?style=flat-square&logo=github&logoColor=white)" (https://github.com/v01dst)
+Building software, experimenting with AI, and turning ideas into products.
 
-</div>---
+<br><a href="https://github.com/v01dst">
+  <img src="https://img.shields.io/badge/GitHub-v01dst-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub"/>
+</a></div>---
 
 about
 
 I'm Mahmoud.
 
-I like building things that start as random ideas and somehow turn into actual projects.
+I like starting with an idea, building it, breaking it, and figuring out how to make it better.
 
-Most of my time goes into AI, software, design, cybersecurity, and whatever I'm curious about that week.
+I'm mainly interested in AI, software, product design, cybersecurity, and developer tools.
 
-Currently building, breaking, and rebuilding things around AI agents and product development.
+Currently building things around AI agents and product development.
 
 ---
 
 building
 
 Kernl
-An AI-native workspace for turning ideas into products.
+
+An AI-native platform focused on turning startup ideas into real products.
+
+AI · Agents · Product · Automation
 
 AgentForge
-Tools for building and working with AI agents.
+
+Developer tooling for building and working with AI agents.
+
+AI · CLI · Automation · Developer Tools
 
 ---
 
-tools i use
+stack
 
-<p align="left">
-<img src="https://skillicons.dev/icons?i=python,js,ts,react,nextjs,nodejs,tailwind,git,github,linux,figma,blender&perline=6" />
+<p>
+  <img src="https://cdn.simpleicons.org/python" width="40" alt="Python"/>
+  <img src="https://cdn.simpleicons.org/javascript" width="40" alt="JavaScript"/>
+  <img src="https://cdn.simpleicons.org/typescript" width="40" alt="TypeScript"/>
+  <img src="https://cdn.simpleicons.org/react" width="40" alt="React"/>
+  <img src="https://cdn.simpleicons.org/nextdotjs/white" width="40" alt="Next.js"/>
+  <img src="https://cdn.simpleicons.org/nodedotjs" width="40" alt="Node.js"/>
+  <img src="https://cdn.simpleicons.org/tailwindcss" width="40" alt="Tailwind CSS"/>
+  <img src="https://cdn.simpleicons.org/git" width="40" alt="Git"/>
+  <img src="https://cdn.simpleicons.org/github/white" width="40" alt="GitHub"/>
+  <img src="https://cdn.simpleicons.org/linux/white" width="40" alt="Linux"/>
+  <img src="https://cdn.simpleicons.org/figma" width="40" alt="Figma"/>
+  <img src="https://cdn.simpleicons.org/blender" width="40" alt="Blender"/>
 </p>---
 
-currently obsessed with
+interests
 
-"AI agents" · "LLMs" · "cybersecurity" · "developer tools" · "product design" · "3D"
+AI
+LLMs · AI agents · model architecture · inference · automation
+
+Software
+Web apps · developer tools · CLI · Linux · open source
+
+Design
+UI/UX · product design · branding · motion · 3D
+
+Security
+Cybersecurity · networking · Linux · web security
 
 ---
 
-github
+now
 
-<div align="center"><img height="170" src="https://github-readme-stats.vercel.app/api?username=v01dst&show_icons=true&hide_border=true&theme=github_dark&rank_icon=github" /><img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=v01dst&layout=compact&hide_border=true&theme=github_dark" /></div>---
+building       Kernl + AgentForge
+learning       AI systems + cybersecurity
+exploring      agents + developer tooling
+designing      products + interfaces
 
-<div align="center">"learn → build → break → repeat"
+---
+
+<div align="center">build → break → learn → rebuild
+
+<br><a href="https://github.com/v01dst?tab=repositories">view my projects →</a>
 
 </div>
