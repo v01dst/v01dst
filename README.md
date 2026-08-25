@@ -1,93 +1,118 @@
-<div align="center"><img
+<div align="center"><img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:0B0B0B,50:161616,100:2A2A2A&text=v01dst&fontColor=FFFFFF&fontSize=72&fontAlignY=42&desc=DEVELOPER%20%E2%80%A2%20DESIGNER%20%E2%80%A2%20BUILDER&descAlignY=64&descSize=19" width="100%"/><br><img
 src="https://i.postimg.cc/xCs7W0ng/IMG-20260819-WA0024-1.jpg"
-width="150"
-height="150"
+width="180"
+height="180"
 style="border-radius:50%; object-fit:cover;"
 alt="Mahmoud"
 />
 
-v01dst
+<br><br>
 
-developer · designer · builder
+Mahmoud
 
-Building software, experimenting with AI, and turning ideas into products.
+Developer · Designer · Builder
 
-<br><a href="https://github.com/v01dst">
-  <img src="https://img.shields.io/badge/GitHub-v01dst-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub"/>
-</a></div>---
+<p>
+  <strong>I build software, experiment with AI,<br>
+  and turn ideas into real products.</strong>
+</p><br><a href="https://github.com/v01dst">
+<img src="https://img.shields.io/badge/GitHub-v01dst-181717?style=for-the-badge&logo=github&logoColor=white" />
+</a><a href="https://github.com/v01dst?tab=repositories">
+<img src="https://img.shields.io/badge/Projects-181717?style=for-the-badge&logo=github&logoColor=white" />
+</a></div><br>About Me
 
-about
+I'm Mahmoud, a developer and designer who enjoys building things from scratch.
 
-I'm Mahmoud.
+I spend most of my time exploring Artificial Intelligence, software development, cybersecurity, product design, and startups.
 
-I like starting with an idea, building it, breaking it, and figuring out how to make it better.
+I learn by building — if I don't know how something works, I build something that forces me to find out.
 
-I'm mainly interested in AI, software, product design, cybersecurity, and developer tools.
-
-Currently building things around AI agents and product development.
-
----
-
-building
+<br>What I'm Building
 
 Kernl
 
-An AI-native platform focused on turning startup ideas into real products.
+An AI-powered platform for turning startup ideas into real products.
 
-AI · Agents · Product · Automation
+Kernl brings together AI agents, product strategy, architecture, UI/UX, branding, development, automation, and growth into one workflow.
 
-AgentForge
+"AI" · "Agents" · "SaaS" · "Product Development"
+
+<br>AgentForge
 
 Developer tooling for building and working with AI agents.
 
-AI · CLI · Automation · Developer Tools
+Focused on CLI workflows, automation, agent tooling, and developer infrastructure.
 
----
+"AI" · "Agents" · "CLI" · "Automation"
 
-stack
+<br>Tech Stack
 
-<p>
-  <img src="https://cdn.simpleicons.org/python" width="38" alt="Python"/>
-  <img src="https://cdn.simpleicons.org/javascript" width="38" alt="JavaScript"/>
-  <img src="https://cdn.simpleicons.org/typescript" width="38" alt="TypeScript"/>
-  <img src="https://cdn.simpleicons.org/react" width="38" alt="React"/>
-  <img src="https://cdn.simpleicons.org/nextdotjs" width="38" alt="Next.js"/>
-  <img src="https://cdn.simpleicons.org/nodedotjs" width="38" alt="Node.js"/>
-  <img src="https://cdn.simpleicons.org/tailwindcss" width="38" alt="Tailwind CSS"/>
-  <img src="https://cdn.simpleicons.org/git" width="38" alt="Git"/>
-  <img src="https://cdn.simpleicons.org/github" width="38" alt="GitHub"/>
-  <img src="https://cdn.simpleicons.org/linux" width="38" alt="Linux"/>
-  <img src="https://cdn.simpleicons.org/figma" width="38" alt="Figma"/>
-  <img src="https://cdn.simpleicons.org/blender" width="38" alt="Blender"/>
-</p>---
+<p align="left"><img src="https://cdn.simpleicons.org/python" width="46" alt="Python"/>
+<img src="https://cdn.simpleicons.org/javascript" width="46" alt="JavaScript"/>
+<img src="https://cdn.simpleicons.org/typescript" width="46" alt="TypeScript"/>
+<img src="https://cdn.simpleicons.org/react" width="46" alt="React"/>
+<img src="https://cdn.simpleicons.org/nextdotjs" width="46" alt="Next.js"/>
+<img src="https://cdn.simpleicons.org/nodedotjs" width="46" alt="Node.js"/>
+<img src="https://cdn.simpleicons.org/tailwindcss" width="46" alt="Tailwind"/>
+<img src="https://cdn.simpleicons.org/git" width="46" alt="Git"/>
+<img src="https://cdn.simpleicons.org/github" width="46" alt="GitHub"/>
+<img src="https://cdn.simpleicons.org/linux" width="46" alt="Linux"/>
+<img src="https://cdn.simpleicons.org/figma" width="46" alt="Figma"/>
+<img src="https://cdn.simpleicons.org/blender" width="46" alt="Blender"/></p><br>What I'm Into
 
-interests
+Artificial Intelligence
 
-AI
-LLMs · AI agents · model architecture · inference · automation
+LLMs · AI Agents · Model Architecture · Inference · Automation
 
 Software
-Web apps · developer tools · CLI · Linux · open source
+
+Web Development · Developer Tools · CLI · Linux · Open Source
 
 Design
-UI/UX · product design · branding · motion · 3D
 
-Security
-Cybersecurity · networking · Linux · web security
+UI/UX · Product Design · Branding · Motion · 3D
 
----
+Cybersecurity
 
-now
+Web Security · Networking · Linux · Ethical Hacking
 
-building       Kernl + AgentForge
-learning       AI systems + cybersecurity
-exploring      agents + developer tooling
-designing      products + interfaces
+<br>Currently Exploring
 
----
+<div align="center">AI Systems
+Building a deeper understanding of modern AI and agentic systems.
 
-<div align="center">build → break → learn → rebuild
+<br>Cybersecurity
+Learning security from the fundamentals of Linux and networking upward.
 
-<br><a href="https://github.com/v01dst?tab=repositories">view my projects →</a>
+<br>Product Development
+Learning how ideas become products — not just how products get coded.
 
-</div>
+</div><br>GitHub
+
+<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=v01dst&show_icons=true&hide_border=true&theme=github_dark&rank_icon=github" height="180"/><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=v01dst&layout=compact&hide_border=true&theme=github_dark" height="180"/></div><br>How I Build
+
+<div align="center">IDEA
+
+↓
+
+BUILD
+
+↓
+
+BREAK
+
+↓
+
+LEARN
+
+↓
+
+REBUILD
+
+</div><br><div align="center">"build something worth keeping."
+
+<br><a href="https://github.com/v01dst?tab=repositories">
+<img src="https://img.shields.io/badge/EXPLORE%20MY%20PROJECTS-111111?style=for-the-badge&logo=github&logoColor=white" />
+</a><br><br>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:2A2A2A,100:0B0B0B" width="100%"/></div>
