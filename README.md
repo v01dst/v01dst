@@ -16,7 +16,7 @@ Developer · Designer · Builder
 
 <p>
 <strong>
-I build software, experiment with AI,<br>
+I build software, Experiment with AI,<br>
 and turn ideas into real products.
 </strong>
 </p><br><a href="https://github.com/v01dst">
