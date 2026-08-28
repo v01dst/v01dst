@@ -12,6 +12,7 @@
 
 <a href="https://github.com/v01dst"><img src="https://img.shields.io/badge/GitHub-v01dst-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
 <a href="https://github.com/v01dst?tab=repositories"><img src="https://img.shields.io/badge/Projects-181717?style=for-the-badge&logo=github&logoColor=white" alt="Projects"/></a>
+<a href="https://discord.com/users/9p.1"><img src="https://img.shields.io/badge/Discord-9p.1-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"/></a>
 
 </div>
 
@@ -102,7 +103,12 @@ Learning how ideas become products, not just how products get coded.
 
 <br><br>
 
-<img src="https://github-stats-extended.vercel.app/api?username=v01dst&show_icons=true&theme=github_dark&hide_border=true" height="190" alt="GitHub Statistics"/>
+<img src="https://github-readme-stats.vercel.app/api?username=v01dst&show_icons=true&theme=github_dark&hide_border=true&count_private=true" height="190" alt="GitHub Statistics"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=v01dst&theme=github-dark&hide_border=true" height="190" alt="GitHub Streak"/>
+
+<br><br>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=v01dst&layout=compact&theme=github_dark&hide_border=true" alt="Top Languages"/>
 
 </div>
 
@@ -149,6 +155,7 @@ Learning how ideas become products, not just how products get coded.
 <br>
 
 <a href="https://github.com/v01dst?tab=repositories"><img src="https://img.shields.io/badge/EXPLORE_MY_PROJECTS-111111?style=for-the-badge&logo=github&logoColor=white" alt="Explore Projects"/></a>
+<a href="https://discord.com/users/9p.1"><img src="https://img.shields.io/badge/MESSAGE_ME_ON_DISCORD-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"/></a>
 
 <br><br>
 
