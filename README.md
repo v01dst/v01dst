@@ -108,7 +108,7 @@ Learning how ideas become products, not just how products get coded.
 
 <br><br>
 
-<img src="https://github-stats-extended.vercel.app/api/top-langs/?username=v01dst&layout=compact&theme=github_dark&hide_border=true" alt="Top Languages"/>
+<img src="https://github-stats-extended.vercel.app/api/top-langs/?username=v01dst&layout=compact&theme=github_dark&hide_border=true&count_private=true" alt="Top Languages"/>
 
 </div>
 
