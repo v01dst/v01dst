@@ -103,12 +103,12 @@ Learning how ideas become products, not just how products get coded.
 
 <br><br>
 
-<img src="https://github-readme-stats.vercel.app/api?username=v01dst&show_icons=true&theme=github_dark&hide_border=true&count_private=true" height="190" alt="GitHub Statistics"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=v01dst&theme=github-dark&hide_border=true" height="190" alt="GitHub Streak"/>
+<img src="https://github-stats-extended.vercel.app/api?username=v01dst&show_icons=true&theme=github_dark&hide_border=true" height="190" alt="GitHub Statistics"/>
+<img src="https://streak-stats.demolab.com/?user=v01dst&theme=github-dark&hide_border=true" height="190" alt="GitHub Streak"/>
 
 <br><br>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=v01dst&layout=compact&theme=github_dark&hide_border=true" alt="Top Languages"/>
+<img src="https://github-stats-extended.vercel.app/api/top-langs/?username=v01dst&layout=compact&theme=github_dark&hide_border=true" alt="Top Languages"/>
 
 </div>
 
