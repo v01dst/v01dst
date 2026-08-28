@@ -103,8 +103,8 @@ Learning how ideas become products, not just how products get coded.
 
 <br><br>
 
-<img src="https://github-stats-extended.vercel.app/api?username=v01dst&show_icons=true&theme=github_dark&hide_border=true" height="190" alt="GitHub Statistics"/>
 <img src="https://streak-stats.demolab.com/?user=v01dst&theme=github-dark&hide_border=true" height="190" alt="GitHub Streak"/>
+<img src="https://img.shields.io/github/stars/v01dst?style=for-the-badge&label=Total%20Stars&color=FFD700&logo=github" alt="Total Stars"/>
 
 <br><br>
 
