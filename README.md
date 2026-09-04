@@ -37,12 +37,12 @@ _Auto-refreshed every 6 hours by a GitHub Action ⚙️_
 
 | Repo | What it is | Lang | ★ | Last push |
 | --- | :--- | :--- | :---: | :---: |
+| [v01dst](https://github.com/v01dst/v01dst) | No description | Python | 2 | 2026-09-04 |
 | [request-inspector](https://github.com/v01dst/request-inspector) | No description | Go | 0 | 2026-09-04 |
 | [heartbeat-hub](https://github.com/v01dst/heartbeat-hub) | No description | Python | 1 | 2026-09-04 |
 | [markdawn](https://github.com/v01dst/markdawn) | No description | TypeScript | 1 | 2026-09-04 |
 | [pwgen-cli](https://github.com/v01dst/pwgen-cli) | No description | Go | 1 | 2026-09-04 |
 | [pastebin](https://github.com/v01dst/pastebin) | No description | TypeScript | 1 | 2026-09-04 |
-| [qr-code-service](https://github.com/v01dst/qr-code-service) | No description | TypeScript | 1 | 2026-09-04 |
 
 <!-- STATUS:END -->
 
@@ -138,6 +138,13 @@ Learning how ideas become products, not just how products get coded.
 
 <!-- LANGUAGES:START -->
 
+### [v01dst](https://github.com/v01dst/v01dst)
+No description
+
+**Python**  ██████████████████████ `100.0%`
+
+---
+
 ### [request-inspector](https://github.com/v01dst/request-inspector)
 No description
 
@@ -175,14 +182,6 @@ No description
 
 **TypeScript**  ██████████████████████ `97.8%`
 **Dockerfile**  ░░░░░░░░░░░░░░░░░░░░░░ `2.2%`
-
----
-
-### [qr-code-service](https://github.com/v01dst/qr-code-service)
-No description
-
-**TypeScript**  █████████████████████░ `94.6%`
-**Dockerfile**  █░░░░░░░░░░░░░░░░░░░░░ `5.4%`
 
 <!-- LANGUAGES:END -->
 
