@@ -57,17 +57,17 @@
       <img align="left" width=390 src="https://streak-stats.demolab.com/?user=v01dst&theme=react&border=61dafb&hide_border=true" alt="GitHub Streak"/>
     </a>
     <a href="https://github.com/anuraghazra/github-readme-stats" title="Go to Source">
-      <img align="right" width=390 src="https://github-readme-stats.vercel.app/api?username=v01dst&show_icons=true&theme=react&border_color=61dafb&hide_border=true" alt="GitHub Stats"/>
+      <img align="right" width=390 src="https://github-readme-stats-fast.vercel.app/api?username=v01dst&show_icons=true&theme=react&border_color=61dafb&hide_border=true" alt="GitHub Stats"/>
     </a>
   </div>
   <br><br><br><br><br><br><br><br><br><br>
   <div align=center>
     <a href="https://github.com/anuraghazra/github-readme-stats">
-      <img height=200 src="https://github-readme-stats.vercel.app/api/top-langs/?username=v01dst&layout=compact&theme=react&border_color=61dafb&hide_border=true&langs_count=8" alt="Top Languages"/>
+      <img height=200 src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=v01dst&layout=compact&theme=react&border_color=61dafb&hide_border=true&langs_count=8" alt="Top Languages"/>
     </a>
   </div>
   <br>
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=v01dst&theme=react-dark&bg_color=20232a&hide_border=true&area=true" width="100%" alt="Activity Graph"/>
+  <img src="https://ghchart.rshah.org/409ba5/v01dst" width="100%" alt="Contribution Graph"/>
 </p>
 
 <hr>
@@ -75,18 +75,18 @@
 <h2 align="center"> 👨‍💻 Repositories 👨‍💻 </h2>
 <br>
 <div width="100%" align="center">
-  <a href="https://github.com/v01dst/agentforge" title="AgentForge"><img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=v01dst&repo=agentforge&theme=react&border_color=61dafb&border_radius=10" alt="agentforge"/></a>
-  <a href="https://github.com/v01dst/croni" title="croni"><img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=v01dst&repo=croni&theme=react&border_color=61dafb&border_radius=10" alt="croni"/></a>
+  <a href="https://github.com/v01dst/agentforge" title="AgentForge"><img align="left" height="115" src="https://github-readme-stats-fast.vercel.app/api/pin/?username=v01dst&repo=agentforge&theme=react&border_color=61dafb&border_radius=10" alt="agentforge"/></a>
+  <a href="https://github.com/v01dst/croni" title="croni"><img align="right" height="115" src="https://github-readme-stats-fast.vercel.app/api/pin/?username=v01dst&repo=croni&theme=react&border_color=61dafb&border_radius=10" alt="croni"/></a>
 </div>
 <br/><br/><br/><br/><br/><br/>
 <div width="100%" align="center">
-  <a href="https://github.com/v01dst/fetchcraft" title="fetchcraft"><img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=v01dst&repo=fetchcraft&theme=react&border_color=61dafb&border_radius=10" alt="fetchcraft"/></a>
-  <a href="https://github.com/v01dst/patchwork" title="patchwork"><img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=v01dst&repo=patchwork&theme=react&border_color=61dafb&border_radius=10" alt="patchwork"/></a>
+  <a href="https://github.com/v01dst/fetchcraft" title="fetchcraft"><img align="left" height="115" src="https://github-readme-stats-fast.vercel.app/api/pin/?username=v01dst&repo=fetchcraft&theme=react&border_color=61dafb&border_radius=10" alt="fetchcraft"/></a>
+  <a href="https://github.com/v01dst/patchwork" title="patchwork"><img align="right" height="115" src="https://github-readme-stats-fast.vercel.app/api/pin/?username=v01dst&repo=patchwork&theme=react&border_color=61dafb&border_radius=10" alt="patchwork"/></a>
 </div>
 <br/><br/><br/><br/><br/><br/>
 <div width="100%" align="center">
-  <a href="https://github.com/v01dst/gitfeel" title="gitfeel"><img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=v01dst&repo=gitfeel&theme=react&border_color=61dafb&border_radius=10" alt="gitfeel"/></a>
-  <a href="https://github.com/v01dst/sql-guard" title="sql-guard"><img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=v01dst&repo=sql-guard&theme=react&border_color=61dafb&border_radius=10" alt="sql-guard"/></a>
+  <a href="https://github.com/v01dst/gitfeel" title="gitfeel"><img align="left" height="115" src="https://github-readme-stats-fast.vercel.app/api/pin/?username=v01dst&repo=gitfeel&theme=react&border_color=61dafb&border_radius=10" alt="gitfeel"/></a>
+  <a href="https://github.com/v01dst/sql-guard" title="sql-guard"><img align="right" height="115" src="https://github-readme-stats-fast.vercel.app/api/pin/?username=v01dst&repo=sql-guard&theme=react&border_color=61dafb&border_radius=10" alt="sql-guard"/></a>
 </div>
 <br/><br/><br/><br/><br/><br/>
 
@@ -105,9 +105,9 @@
 
 | Repo | What it is | Lang | ★ | Last push |
 | --- | :--- | :--- | :---: | :---: |
-| [v01dst](https://github.com/v01dst/v01dst) | No description | Python | 2 | 2026-09-04 |
 | [pwgen-cli](https://github.com/v01dst/pwgen-cli) | No description | Go | 1 | 2026-09-04 |
 | [markdawn](https://github.com/v01dst/markdawn) | No description | TypeScript | 1 | 2026-09-04 |
+| [v01dst](https://github.com/v01dst/v01dst) | No description | Python | 2 | 2026-09-04 |
 | [request-inspector](https://github.com/v01dst/request-inspector) | No description | Go | 0 | 2026-09-04 |
 | [heartbeat-hub](https://github.com/v01dst/heartbeat-hub) | No description | Python | 1 | 2026-09-04 |
 | [pastebin](https://github.com/v01dst/pastebin) | No description | TypeScript | 1 | 2026-09-04 |
@@ -119,13 +119,6 @@
 <h2 align="center"> 📊 Language Breakdown 📊 </h2>
 
 <!-- LANGUAGES:START -->
-
-### [v01dst](https://github.com/v01dst/v01dst)
-No description
-
-**Python**  ██████████████████████ `100.0%`
-
----
 
 ### [pwgen-cli](https://github.com/v01dst/pwgen-cli)
 No description
@@ -140,6 +133,13 @@ No description
 
 **TypeScript**  █████████████████████░ `96.2%`
 **Dockerfile**  █░░░░░░░░░░░░░░░░░░░░░ `3.8%`
+
+---
+
+### [v01dst](https://github.com/v01dst/v01dst)
+No description
+
+**Python**  ██████████████████████ `100.0%`
 
 ---
 
