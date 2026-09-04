@@ -101,7 +101,7 @@
 
 <!-- STATUS:START -->
 
-**⚡ 40 public repos · ⭐ 42 total stars · 👥 1 followers · 🚀 latest push `2026-09-04`**
+**⚡ 40 public repos · ⭐ 42 total stars · 👥 2 followers · 🚀 latest push `2026-09-04`**
 
 | Repo | What it is | Lang | ★ | Last push |
 | --- | :--- | :--- | :---: | :---: |
