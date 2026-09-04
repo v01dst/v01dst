@@ -1,35 +1,103 @@
-<div align="center"><img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:7928CA,100:00D1FF&text=Mahmoud&fontColor=FFFFFF&fontSize=72&fontAlignY=42&desc=DEVELOPER%20%E2%80%A2%20DESIGNER%20%E2%80%A2%20BUILDER&descAlignY=64&descSize=19&descColor=FFFFFF&animation=fadeIn" width="100%" alt="Mahmoud"/><br>
+<img align="right" alt="Profile Views" src="https://komarev.com/ghpvc/?username=v01dst&label=Views&color=61dafb&style=flat-square">
 
-<img src="https://i.postimg.cc/xCs7W0ng/IMG-20260819-WA0024-1.jpg" width="180" height="180" style="border-radius:50%; object-fit:cover;" alt="Mahmoud"/>
+<h1 align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=30&duration=3000&pause=1000&color=61DAFB&center=true&vCenter=true&width=760&height=70&lines=Hello,+There!+%F0%9F%91%8B;This+is+Mahmoud...;Developer+%E2%80%A2+Designer+%E2%80%A2+Builder;I+build+software+%26+turn+ideas+into+real+products;Now+building+Kernl+%26+AgentForge" alt="Typing SVG" />
+  </a>
+</h1>
 
-<br><br>
+<p align="center">
+  <a href="https://github.com/v01dst"><img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://discord.com/users/9p.1"><img src="https://img.shields.io/badge/discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"/></a>&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://github.com/v01dst?tab=repositories"><img src="https://img.shields.io/badge/projects-181717?style=for-the-badge&logo=github&logoColor=white" alt="Projects"/></a>
+</p>
 
-# Mahmoud
+<p align="center">
+  🔭 I'm currently building <b>Kernl</b> — an AI-powered platform that turns startup ideas into real products<br>
+  🤖 Also building <b>AgentForge</b> — a model-agnostic AI agent framework, CLI & workflow engine<br>
+  🌱 Exploring AI systems, cybersecurity & product development<br>
+  💬 Ask me about anything — <a href="https://github.com/v01dst/v01dst/issues" title="Issues">open an issue</a> or ping me on Discord<br>
+  ⚡ I learn by building. If I don't know how something works, I build something that forces me to find out
+</p>
 
-<a href="https://github.com/v01dst"><img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&pause=1200&color=7C3AED&center=true&vCenter=true&width=640&lines=I+build+software+and+experiment+with+AI;I+turn+ideas+into+real+products;Now+building+Kernl+%26+AgentForge;Learn+by+building.+Break.+Rebuild." alt="Typing SVG"/></a>
+<hr>
 
+<h2 align="center"> ⚙️ Tools of Trade ⚙️ </h2>
 <br>
+<p align="center">
+  <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="Python"/>&nbsp;&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript"/>&nbsp;&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" alt="JavaScript"/>&nbsp;&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" alt="React"/>&nbsp;&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white" alt="Next.js"/>&nbsp;&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js"/>
+</p>
+<p align="center">
+  <img src="https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="TailwindCSS"/>&nbsp;&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white" alt="Rust"/>&nbsp;&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white" alt="Go"/>&nbsp;&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white" alt="C"/>&nbsp;&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++"/>&nbsp;&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
+</p>
+<p align="center">
+  <img src="https://img.shields.io/badge/linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux"/>&nbsp;&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white" alt="GitHub Actions"/>&nbsp;&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white" alt="Figma"/>&nbsp;&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/blender-%23EA7600.svg?style=for-the-badge&logo=blender&logoColor=white" alt="Blender"/>
+</p>
 
-<a href="https://github.com/v01dst"><img src="https://img.shields.io/badge/GitHub-v01dst-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
-<a href="https://github.com/v01dst?tab=repositories"><img src="https://img.shields.io/badge/Projects-v01dst-181717?style=for-the-badge&logo=github&logoColor=white" alt="Projects"/></a>
-<a href="https://discord.com/users/9p.1"><img src="https://img.shields.io/badge/Discord-9p.1-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"/></a>
-<img src="https://komarev.com/ghpvc/?username=v01dst&label=PROFILE+VIEWS&color=0d1117&style=for-the-badge" alt="Profile Views"/>
+<hr>
 
+<h2 align="center"> ⚡ Stats ⚡ </h2>
+<br>
+<p align=center>
+  <div align=center>
+    <a href="https://github.com/denvercoder1/github-readme-streak-stats" title="Go to Source">
+      <img align="left" width=390 src="https://streak-stats.demolab.com/?user=v01dst&theme=react&border=61dafb&hide_border=true" alt="GitHub Streak"/>
+    </a>
+    <a href="https://github.com/anuraghazra/github-readme-stats" title="Go to Source">
+      <img align="right" width=390 src="https://github-readme-stats.vercel.app/api?username=v01dst&show_icons=true&theme=react&border_color=61dafb&hide_border=true" alt="GitHub Stats"/>
+    </a>
+  </div>
+  <br><br><br><br><br><br><br><br><br><br>
+  <div align=center>
+    <a href="https://github.com/anuraghazra/github-readme-stats">
+      <img height=200 src="https://github-readme-stats.vercel.app/api/top-langs/?username=v01dst&layout=compact&theme=react&border_color=61dafb&hide_border=true&langs_count=8" alt="Top Languages"/>
+    </a>
+  </div>
+  <br>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=v01dst&theme=react-dark&bg_color=20232a&hide_border=true&area=true" width="100%" alt="Activity Graph"/>
+</p>
+
+<hr>
+
+<h2 align="center"> 👨‍💻 Repositories 👨‍💻 </h2>
+<br>
+<div width="100%" align="center">
+  <a href="https://github.com/v01dst/agentforge" title="AgentForge"><img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=v01dst&repo=agentforge&theme=react&border_color=61dafb&border_radius=10" alt="agentforge"/></a>
+  <a href="https://github.com/v01dst/croni" title="croni"><img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=v01dst&repo=croni&theme=react&border_color=61dafb&border_radius=10" alt="croni"/></a>
 </div>
+<br/><br/><br/><br/><br/><br/>
+<div width="100%" align="center">
+  <a href="https://github.com/v01dst/fetchcraft" title="fetchcraft"><img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=v01dst&repo=fetchcraft&theme=react&border_color=61dafb&border_radius=10" alt="fetchcraft"/></a>
+  <a href="https://github.com/v01dst/patchwork" title="patchwork"><img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=v01dst&repo=patchwork&theme=react&border_color=61dafb&border_radius=10" alt="patchwork"/></a>
+</div>
+<br/><br/><br/><br/><br/><br/>
+<div width="100%" align="center">
+  <a href="https://github.com/v01dst/gitfeel" title="gitfeel"><img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=v01dst&repo=gitfeel&theme=react&border_color=61dafb&border_radius=10" alt="gitfeel"/></a>
+  <a href="https://github.com/v01dst/sql-guard" title="sql-guard"><img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=v01dst&repo=sql-guard&theme=react&border_color=61dafb&border_radius=10" alt="sql-guard"/></a>
+</div>
+<br/><br/><br/><br/><br/><br/>
 
-## About Me
+<h4 align="center">
+  <a href="https://github.com/v01dst?tab=repositories" title="Show Repositories">🔎 Show More 🔍</a>
+</h4>
 
-I'm Mahmoud, a developer and designer who enjoys building things from scratch.
+<hr>
 
-I spend most of my time exploring **Artificial Intelligence, software development, cybersecurity, product design, and startups.**
-
-I learn by building. If I don't know how something works, I build something that forces me to find out.
-
-<br>
-
-## Live Status
-
-_Auto-refreshed every 6 hours by a GitHub Action ⚙️_
+<h2 align="center"> 🛰️ Live Status 🛰️ </h2>
+<p align="center"><i>refreshed every 6 hours by a GitHub Action</i></p>
 
 <!-- STATUS:START -->
 
@@ -37,106 +105,36 @@ _Auto-refreshed every 6 hours by a GitHub Action ⚙️_
 
 | Repo | What it is | Lang | ★ | Last push |
 | --- | :--- | :--- | :---: | :---: |
+| [pwgen-cli](https://github.com/v01dst/pwgen-cli) | No description | Go | 1 | 2026-09-04 |
+| [markdawn](https://github.com/v01dst/markdawn) | No description | TypeScript | 1 | 2026-09-04 |
 | [v01dst](https://github.com/v01dst/v01dst) | No description | Python | 2 | 2026-09-04 |
 | [request-inspector](https://github.com/v01dst/request-inspector) | No description | Go | 0 | 2026-09-04 |
 | [heartbeat-hub](https://github.com/v01dst/heartbeat-hub) | No description | Python | 1 | 2026-09-04 |
-| [markdawn](https://github.com/v01dst/markdawn) | No description | TypeScript | 1 | 2026-09-04 |
-| [pwgen-cli](https://github.com/v01dst/pwgen-cli) | No description | Go | 1 | 2026-09-04 |
 | [pastebin](https://github.com/v01dst/pastebin) | No description | TypeScript | 1 | 2026-09-04 |
 
 <!-- STATUS:END -->
 
-<br>
+<hr>
 
-## What I'm Building
-
-### Kernl
-
-An AI-powered platform for turning startup ideas into real products.
-
-Kernl brings together AI agents, product strategy, architecture, UI/UX, branding, development, automation, and growth into one workflow.
-
-**AI · Agents · SaaS · Product Development**
-
-### AgentForge
-
-Developer tooling for building and working with AI agents.
-
-Focused on CLI workflows, automation, agent tooling, and developer infrastructure.
-
-**AI · Agents · CLI · Automation**
-
-<br>
-
-## Tech Stack
-
-<p align="center"><img src="https://skillicons.dev/icons?i=python,javascript,typescript,react,nextjs,nodejs,tailwind,rust,go,c,cpp,git,github,linux,figma,blender&perline=8" alt="Tech Stack"/></p>
-
-<br>
-
-## Interests
-
-<div align="center">
-
-**Artificial Intelligence**  
-LLMs · AI Agents · Model Architecture · Automation
-
-**Software**  
-Web Development · Developer Tools · CLI · Linux
-
-**Design**  
-UI/UX · Product Design · Branding · Motion · 3D
-
-**Cybersecurity**  
-Web Security · Networking · Linux · Ethical Hacking
-
-</div>
-
-<br>
-
-## Currently Exploring
-
-<p align="center">
-
-**AI Systems**  
-Understanding modern AI and building with agentic systems.
-
-<br><br>
-
-**Cybersecurity**  
-Learning security from Linux and networking upward.
-
-<br><br>
-
-**Product Development**  
-Learning how ideas become products, not just how products get coded.
-
-</p>
-
-<br>
-
-## GitHub
-
-<div align="center">
-
-<a href="https://github.com/v01dst?tab=repositories"><img src="https://img.shields.io/github/repos/v01dst?style=for-the-badge&label=Repositories" alt="Repositories"/></a>
-<a href="https://github.com/v01dst?tab=followers"><img src="https://img.shields.io/github/followers/v01dst?style=for-the-badge&label=Followers" alt="Followers"/></a>
-<a href="https://github.com/v01dst?tab=stars"><img src="https://img.shields.io/github/stars/v01dst?style=for-the-badge&label=Stars" alt="Stars"/></a>
-
-<br><br>
-
-<img src="https://streak-stats.demolab.com/?user=v01dst&theme=github-dark&hide_border=true" height="190" alt="GitHub Streak"/>
-<img src="https://img.shields.io/github/stars/v01dst?style=for-the-badge&label=Total%20Stars&color=FFD700&logo=github" alt="Total Stars"/>
-
-<br><br>
-
-<img src="https://github-stats-extended.vercel.app/api/top-langs/?username=v01dst&layout=compact&theme=github_dark&hide_border=true&count_private=true" alt="Top Languages"/>
-
-</div>
-
-<br>
+<h2 align="center"> 📊 Language Breakdown 📊 </h2>
 
 <!-- LANGUAGES:START -->
+
+### [pwgen-cli](https://github.com/v01dst/pwgen-cli)
+No description
+
+**Go**  █████████████████████░ `97.7%`
+**Dockerfile**  █░░░░░░░░░░░░░░░░░░░░░ `2.3%`
+
+---
+
+### [markdawn](https://github.com/v01dst/markdawn)
+No description
+
+**TypeScript**  █████████████████████░ `96.2%`
+**Dockerfile**  █░░░░░░░░░░░░░░░░░░░░░ `3.8%`
+
+---
 
 ### [v01dst](https://github.com/v01dst/v01dst)
 No description
@@ -161,22 +159,6 @@ No description
 
 ---
 
-### [markdawn](https://github.com/v01dst/markdawn)
-No description
-
-**TypeScript**  █████████████████████░ `96.2%`
-**Dockerfile**  █░░░░░░░░░░░░░░░░░░░░░ `3.8%`
-
----
-
-### [pwgen-cli](https://github.com/v01dst/pwgen-cli)
-No description
-
-**Go**  █████████████████████░ `97.7%`
-**Dockerfile**  █░░░░░░░░░░░░░░░░░░░░░ `2.3%`
-
----
-
 ### [pastebin](https://github.com/v01dst/pastebin)
 No description
 
@@ -185,31 +167,13 @@ No description
 
 <!-- LANGUAGES:END -->
 
-<br>
+<hr>
 
-## How I Build
+<h2 align="center"> 🧊 3D Contribution Graph 🧊 </h2>
+<p align="center"><img src="./profile-3d-contrib/profile-green-animate.svg" alt="3D Contribution Graph" width="100%"/></p>
 
-<div align="center">
+<hr>
 
-| 💡 IDEA | 🔨 BUILD | 💥 BREAK | 🧠 LEARN | 🔁 REBUILD |
-| :---: | :---: | :---: | :---: | :---: |
-| → | → | → | → | ♾️ |
-
-</div>
-
-<br>
-
-<div align="center">
-
-**build something worth keeping.**
-
-<br>
-
-<a href="https://github.com/v01dst?tab=repositories"><img src="https://img.shields.io/badge/EXPLORE_MY_PROJECTS-111111?style=for-the-badge&logo=github&logoColor=white" alt="Explore Projects"/></a>
-<a href="https://discord.com/users/9p.1"><img src="https://img.shields.io/badge/MESSAGE_ME_ON_DISCORD-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Message me on Discord"/></a>
-
-<br><br>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:00D1FF,100:7928CA" width="100%" alt="Footer"/>
-
-</div>
+<h4 align="center">
+  <i>"build something worth keeping."</i>
+</h4>
