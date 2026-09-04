@@ -101,16 +101,16 @@
 
 <!-- STATUS:START -->
 
-**⚡ 30 public repos · ⭐ 41 total stars · 👥 1 followers · 🚀 latest push `2026-09-04`**
+**⚡ 40 public repos · ⭐ 42 total stars · 👥 1 followers · 🚀 latest push `2026-09-04`**
 
 | Repo | What it is | Lang | ★ | Last push |
 | --- | :--- | :--- | :---: | :---: |
-| [v01dst](https://github.com/v01dst/v01dst) | No description | Python | 2 | 2026-09-04 |
-| [fileinfo-api](https://github.com/v01dst/fileinfo-api) | No description | TypeScript | 0 | 2026-09-04 |
-| [pwgen-cli](https://github.com/v01dst/pwgen-cli) | No description | Go | 1 | 2026-09-04 |
-| [markdawn](https://github.com/v01dst/markdawn) | No description | TypeScript | 1 | 2026-09-04 |
-| [request-inspector](https://github.com/v01dst/request-inspector) | No description | Go | 0 | 2026-09-04 |
-| [heartbeat-hub](https://github.com/v01dst/heartbeat-hub) | No description | Python | 1 | 2026-09-04 |
+| [webhook-bench](https://github.com/v01dst/webhook-bench) | Webhook debugging bench — catch any webhook, inspect headers/body/binary, clear and re-test | TypeScript | 0 | 2026-09-04 |
+| [wcx](https://github.com/v01dst/wcx) | wc with superpowers — lines/words/chars/bytes, unicode-aware, top-word analytics. Rust, zero deps | Rust | 0 | 2026-09-04 |
+| [agentforge](https://github.com/v01dst/agentforge) | AgentForge — model-agnostic AI agent framework, terminal CLI, SDK, and workflow engine | TypeScript | 2 | 2026-09-04 |
+| [url-shortener](https://github.com/v01dst/url-shortener) | Short links with click analytics — custom slugs, rate limiting, self-hostable. Node/TypeScript/Fastify/SQLite | TypeScript | 1 | 2026-09-04 |
+| [semver-tool](https://github.com/v01dst/semver-tool) | Semantic versioning CLI — validate, compare, bump per strict semver 2.0.0. Go, zero deps | Go | 0 | 2026-09-04 |
+| [markdawn](https://github.com/v01dst/markdawn) | Markdown to HTML rendering API — GFM tables/task lists, XSS sanitization, full-page mode | TypeScript | 1 | 2026-09-04 |
 
 <!-- STATUS:END -->
 
@@ -120,50 +120,53 @@
 
 <!-- LANGUAGES:START -->
 
-### [v01dst](https://github.com/v01dst/v01dst)
-No description
+### [webhook-bench](https://github.com/v01dst/webhook-bench)
+Webhook debugging bench — catch any webhook, inspect headers/body/binary, clear and re-test
 
-**Python**  ██████████████████████ `100.0%`
-
----
-
-### [fileinfo-api](https://github.com/v01dst/fileinfo-api)
-No description
-
-**TypeScript**  █████████████████████░ `96.5%`
-**Dockerfile**  █░░░░░░░░░░░░░░░░░░░░░ `3.5%`
+**TypeScript**  █████████████████████░ `97.4%`
+**Dockerfile**  █░░░░░░░░░░░░░░░░░░░░░ `2.6%`
 
 ---
 
-### [pwgen-cli](https://github.com/v01dst/pwgen-cli)
-No description
+### [wcx](https://github.com/v01dst/wcx)
+wc with superpowers — lines/words/chars/bytes, unicode-aware, top-word analytics. Rust, zero deps
 
-**Go**  █████████████████████░ `97.7%`
-**Dockerfile**  █░░░░░░░░░░░░░░░░░░░░░ `2.3%`
+**Rust**  █████████████████████░ `97.3%`
+**Dockerfile**  █░░░░░░░░░░░░░░░░░░░░░ `2.7%`
+
+---
+
+### [agentforge](https://github.com/v01dst/agentforge)
+AgentForge — model-agnostic AI agent framework, terminal CLI, SDK, and workflow engine
+
+**TypeScript**  ██████████████████████ `99.2%`
+**HTML**  ░░░░░░░░░░░░░░░░░░░░░░ `0.3%`
+**JavaScript**  ░░░░░░░░░░░░░░░░░░░░░░ `0.3%`
+**CSS**  ░░░░░░░░░░░░░░░░░░░░░░ `0.2%`
+
+---
+
+### [url-shortener](https://github.com/v01dst/url-shortener)
+Short links with click analytics — custom slugs, rate limiting, self-hostable. Node/TypeScript/Fastify/SQLite
+
+**TypeScript**  ██████████████████████ `98.3%`
+**Dockerfile**  ░░░░░░░░░░░░░░░░░░░░░░ `1.7%`
+
+---
+
+### [semver-tool](https://github.com/v01dst/semver-tool)
+Semantic versioning CLI — validate, compare, bump per strict semver 2.0.0. Go, zero deps
+
+**Go**  ██████████████████████ `98.2%`
+**Dockerfile**  ░░░░░░░░░░░░░░░░░░░░░░ `1.8%`
 
 ---
 
 ### [markdawn](https://github.com/v01dst/markdawn)
-No description
+Markdown to HTML rendering API — GFM tables/task lists, XSS sanitization, full-page mode
 
-**TypeScript**  █████████████████████░ `96.2%`
-**Dockerfile**  █░░░░░░░░░░░░░░░░░░░░░ `3.8%`
-
----
-
-### [request-inspector](https://github.com/v01dst/request-inspector)
-No description
-
-**Go**  █████████████████████░ `96.2%`
-**Dockerfile**  █░░░░░░░░░░░░░░░░░░░░░ `3.8%`
-
----
-
-### [heartbeat-hub](https://github.com/v01dst/heartbeat-hub)
-No description
-
-**Python**  █████████████████████░ `97.4%`
-**Dockerfile**  █░░░░░░░░░░░░░░░░░░░░░ `2.6%`
+**TypeScript**  █████████████████████░ `96.7%`
+**Dockerfile**  █░░░░░░░░░░░░░░░░░░░░░ `3.3%`
 
 <!-- LANGUAGES:END -->
 
