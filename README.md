@@ -1,4 +1,4 @@
-<div align="center"><img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=FFFFFF&text=Mahmoud&fontColor=000000&fontSize=72&fontAlignY=42&desc=DEVELOPER%20%E2%80%A2%20DESIGNER%20%E2%80%A2%20BUILDER&descAlignY=64&descSize=19&descColor=000000" width="100%" alt="Mahmoud"/><br><br>
+<div align="center"><img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:7928CA,100:00D1FF&text=Mahmoud&fontColor=FFFFFF&fontSize=72&fontAlignY=42&desc=DEVELOPER%20%E2%80%A2%20DESIGNER%20%E2%80%A2%20BUILDER&descAlignY=64&descSize=19&descColor=FFFFFF&animation=fadeIn" width="100%" alt="Mahmoud"/><br>
 
 <img src="https://i.postimg.cc/xCs7W0ng/IMG-20260819-WA0024-1.jpg" width="180" height="180" style="border-radius:50%; object-fit:cover;" alt="Mahmoud"/>
 
@@ -6,13 +6,14 @@
 
 # Mahmoud
 
-**Developer · Designer · Builder**
+<a href="https://github.com/v01dst"><img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&pause=1200&color=7C3AED&center=true&vCenter=true&width=640&lines=I+build+software+and+experiment+with+AI;I+turn+ideas+into+real+products;Now+building+Kernl+%26+AgentForge;Learn+by+building.+Break.+Rebuild." alt="Typing SVG"/></a>
 
-<p><strong>I build software, experiment with AI,<br>and turn ideas into real products.</strong></p>
+<br>
 
 <a href="https://github.com/v01dst"><img src="https://img.shields.io/badge/GitHub-v01dst-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
-<a href="https://github.com/v01dst?tab=repositories"><img src="https://img.shields.io/badge/Projects-181717?style=for-the-badge&logo=github&logoColor=white" alt="Projects"/></a>
+<a href="https://github.com/v01dst?tab=repositories"><img src="https://img.shields.io/badge/Projects-v01dst-181717?style=for-the-badge&logo=github&logoColor=white" alt="Projects"/></a>
 <a href="https://discord.com/users/9p.1"><img src="https://img.shields.io/badge/Discord-9p.1-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"/></a>
+<img src="https://komarev.com/ghpvc/?username=v01dst&label=PROFILE+VIEWS&color=0d1117&style=for-the-badge" alt="Profile Views"/>
 
 </div>
 
@@ -23,6 +24,27 @@ I'm Mahmoud, a developer and designer who enjoys building things from scratch.
 I spend most of my time exploring **Artificial Intelligence, software development, cybersecurity, product design, and startups.**
 
 I learn by building. If I don't know how something works, I build something that forces me to find out.
+
+<br>
+
+## Live Status
+
+_Auto-refreshed every 6 hours by a GitHub Action ⚙️_
+
+<!-- STATUS:START -->
+
+**⚡ 29 public repos · ⭐ 41 total stars · 👥 1 followers · 🚀 latest push `2026-09-04`**
+
+| Repo | What it is | Lang | ★ | Last push |
+| --- | :--- | :--- | :---: | :---: |
+| [request-inspector](https://github.com/v01dst/request-inspector) | No description | Go | 0 | 2026-09-04 |
+| [heartbeat-hub](https://github.com/v01dst/heartbeat-hub) | No description | Python | 1 | 2026-09-04 |
+| [markdawn](https://github.com/v01dst/markdawn) | No description | TypeScript | 1 | 2026-09-04 |
+| [pwgen-cli](https://github.com/v01dst/pwgen-cli) | No description | Go | 1 | 2026-09-04 |
+| [pastebin](https://github.com/v01dst/pastebin) | No description | TypeScript | 1 | 2026-09-04 |
+| [qr-code-service](https://github.com/v01dst/qr-code-service) | No description | TypeScript | 1 | 2026-09-04 |
+
+<!-- STATUS:END -->
 
 <br>
 
@@ -116,7 +138,51 @@ Learning how ideas become products, not just how products get coded.
 
 <!-- LANGUAGES:START -->
 
-<div align="center">Updating repository language statistics...</div>
+### [request-inspector](https://github.com/v01dst/request-inspector)
+No description
+
+**Go**  █████████████████████░ `96.2%`
+**Dockerfile**  █░░░░░░░░░░░░░░░░░░░░░ `3.8%`
+
+---
+
+### [heartbeat-hub](https://github.com/v01dst/heartbeat-hub)
+No description
+
+**Python**  █████████████████████░ `97.4%`
+**Dockerfile**  █░░░░░░░░░░░░░░░░░░░░░ `2.6%`
+
+---
+
+### [markdawn](https://github.com/v01dst/markdawn)
+No description
+
+**TypeScript**  █████████████████████░ `96.2%`
+**Dockerfile**  █░░░░░░░░░░░░░░░░░░░░░ `3.8%`
+
+---
+
+### [pwgen-cli](https://github.com/v01dst/pwgen-cli)
+No description
+
+**Go**  █████████████████████░ `97.7%`
+**Dockerfile**  █░░░░░░░░░░░░░░░░░░░░░ `2.3%`
+
+---
+
+### [pastebin](https://github.com/v01dst/pastebin)
+No description
+
+**TypeScript**  ██████████████████████ `97.8%`
+**Dockerfile**  ░░░░░░░░░░░░░░░░░░░░░░ `2.2%`
+
+---
+
+### [qr-code-service](https://github.com/v01dst/qr-code-service)
+No description
+
+**TypeScript**  █████████████████████░ `94.6%`
+**Dockerfile**  █░░░░░░░░░░░░░░░░░░░░░ `5.4%`
 
 <!-- LANGUAGES:END -->
 
@@ -126,23 +192,9 @@ Learning how ideas become products, not just how products get coded.
 
 <div align="center">
 
-**IDEA**
-
-↓
-
-**BUILD**
-
-↓
-
-**BREAK**
-
-↓
-
-**LEARN**
-
-↓
-
-**REBUILD**
+| 💡 IDEA | 🔨 BUILD | 💥 BREAK | 🧠 LEARN | 🔁 REBUILD |
+| :---: | :---: | :---: | :---: | :---: |
+| → | → | → | → | ♾️ |
 
 </div>
 
@@ -155,10 +207,10 @@ Learning how ideas become products, not just how products get coded.
 <br>
 
 <a href="https://github.com/v01dst?tab=repositories"><img src="https://img.shields.io/badge/EXPLORE_MY_PROJECTS-111111?style=for-the-badge&logo=github&logoColor=white" alt="Explore Projects"/></a>
-<a href="https://discord.com/users/9p.1"><img src="https://img.shields.io/badge/MESSAGE_ME_ON_DISCORD-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"/></a>
+<a href="https://discord.com/users/9p.1"><img src="https://img.shields.io/badge/MESSAGE_ME_ON_DISCORD-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Message me on Discord"/></a>
 
 <br><br>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=FFFFFF&fontColor=000000" width="100%" alt="Footer"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:00D1FF,100:7928CA" width="100%" alt="Footer"/>
 
 </div>
