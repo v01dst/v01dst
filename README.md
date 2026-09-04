@@ -101,16 +101,16 @@
 
 <!-- STATUS:START -->
 
-**⚡ 29 public repos · ⭐ 41 total stars · 👥 1 followers · 🚀 latest push `2026-09-04`**
+**⚡ 30 public repos · ⭐ 41 total stars · 👥 1 followers · 🚀 latest push `2026-09-04`**
 
 | Repo | What it is | Lang | ★ | Last push |
 | --- | :--- | :--- | :---: | :---: |
+| [v01dst](https://github.com/v01dst/v01dst) | No description | Python | 2 | 2026-09-04 |
+| [fileinfo-api](https://github.com/v01dst/fileinfo-api) | No description | TypeScript | 0 | 2026-09-04 |
 | [pwgen-cli](https://github.com/v01dst/pwgen-cli) | No description | Go | 1 | 2026-09-04 |
 | [markdawn](https://github.com/v01dst/markdawn) | No description | TypeScript | 1 | 2026-09-04 |
-| [v01dst](https://github.com/v01dst/v01dst) | No description | Python | 2 | 2026-09-04 |
 | [request-inspector](https://github.com/v01dst/request-inspector) | No description | Go | 0 | 2026-09-04 |
 | [heartbeat-hub](https://github.com/v01dst/heartbeat-hub) | No description | Python | 1 | 2026-09-04 |
-| [pastebin](https://github.com/v01dst/pastebin) | No description | TypeScript | 1 | 2026-09-04 |
 
 <!-- STATUS:END -->
 
@@ -119,6 +119,21 @@
 <h2 align="center"> 📊 Language Breakdown 📊 </h2>
 
 <!-- LANGUAGES:START -->
+
+### [v01dst](https://github.com/v01dst/v01dst)
+No description
+
+**Python**  ██████████████████████ `100.0%`
+
+---
+
+### [fileinfo-api](https://github.com/v01dst/fileinfo-api)
+No description
+
+**TypeScript**  █████████████████████░ `96.5%`
+**Dockerfile**  █░░░░░░░░░░░░░░░░░░░░░ `3.5%`
+
+---
 
 ### [pwgen-cli](https://github.com/v01dst/pwgen-cli)
 No description
@@ -136,13 +151,6 @@ No description
 
 ---
 
-### [v01dst](https://github.com/v01dst/v01dst)
-No description
-
-**Python**  ██████████████████████ `100.0%`
-
----
-
 ### [request-inspector](https://github.com/v01dst/request-inspector)
 No description
 
@@ -156,14 +164,6 @@ No description
 
 **Python**  █████████████████████░ `97.4%`
 **Dockerfile**  █░░░░░░░░░░░░░░░░░░░░░ `2.6%`
-
----
-
-### [pastebin](https://github.com/v01dst/pastebin)
-No description
-
-**TypeScript**  ██████████████████████ `97.8%`
-**Dockerfile**  ░░░░░░░░░░░░░░░░░░░░░░ `2.2%`
 
 <!-- LANGUAGES:END -->
 
