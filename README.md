@@ -101,16 +101,16 @@
 
 <!-- STATUS:START -->
 
-**⚡ 40 public repos · ⭐ 42 total stars · 👥 2 followers · 🚀 latest push `2026-09-04`**
+**⚡ 49 public repos · ⭐ 42 total stars · 👥 2 followers · 🚀 latest push `2026-09-05`**
 
 | Repo | What it is | Lang | ★ | Last push |
 | --- | :--- | :--- | :---: | :---: |
-| [v01dst](https://github.com/v01dst/v01dst) | No description | Python | 2 | 2026-09-04 |
-| [webhook-bench](https://github.com/v01dst/webhook-bench) | Webhook debugging bench — catch any webhook, inspect headers/body/binary, clear and re-test | TypeScript | 0 | 2026-09-04 |
-| [wcx](https://github.com/v01dst/wcx) | wc with superpowers — lines/words/chars/bytes, unicode-aware, top-word analytics. Rust, zero deps | Rust | 0 | 2026-09-04 |
-| [agentforge](https://github.com/v01dst/agentforge) | AgentForge — model-agnostic AI agent framework, terminal CLI, SDK, and workflow engine | TypeScript | 2 | 2026-09-04 |
-| [url-shortener](https://github.com/v01dst/url-shortener) | Short links with click analytics — custom slugs, rate limiting, self-hostable. Node/TypeScript/Fastify/SQLite | TypeScript | 1 | 2026-09-04 |
-| [semver-tool](https://github.com/v01dst/semver-tool) | Semantic versioning CLI — validate, compare, bump per strict semver 2.0.0. Go, zero deps | Go | 0 | 2026-09-04 |
+| [markdawn](https://github.com/v01dst/markdawn) | Markdown to HTML rendering API — GFM tables/task lists, XSS sanitization, full-page mode | TypeScript | 1 | 2026-09-05 |
+| [pastebin](https://github.com/v01dst/pastebin) | Self-hostable pastebin — expiring pastes, burn-after-read secrets, web UI + JSON API | TypeScript | 1 | 2026-09-05 |
+| [heartbeat-hub](https://github.com/v01dst/heartbeat-hub) | Dead man's switch for cron jobs — silence detection, grace windows, webhook alerts. Pure stdlib | Python | 1 | 2026-09-05 |
+| [json-doctor](https://github.com/v01dst/json-doctor) | JSON toolkit — validate with line/column errors, pretty/minify, structural stats, dot-path queries | Go | 1 | 2026-09-05 |
+| [pwgen-cli](https://github.com/v01dst/pwgen-cli) | Cryptographically secure password generator — Go, zero deps, entropy meter, single binary | Go | 1 | 2026-09-05 |
+| [mock-data-forge](https://github.com/v01dst/mock-data-forge) | Deterministic fake data API — users/orders/posts, same seed = same data. Perfect for tests | TypeScript | 0 | 2026-09-05 |
 
 <!-- STATUS:END -->
 
@@ -120,52 +120,51 @@
 
 <!-- LANGUAGES:START -->
 
-### [v01dst](https://github.com/v01dst/v01dst)
-No description
+### [markdawn](https://github.com/v01dst/markdawn)
+Markdown to HTML rendering API — GFM tables/task lists, XSS sanitization, full-page mode
 
-**Python**  ██████████████████████ `100.0%`
-
----
-
-### [webhook-bench](https://github.com/v01dst/webhook-bench)
-Webhook debugging bench — catch any webhook, inspect headers/body/binary, clear and re-test
-
-**TypeScript**  █████████████████████░ `97.4%`
-**Dockerfile**  █░░░░░░░░░░░░░░░░░░░░░ `2.6%`
+**TypeScript**  █████████████████████░ `96.9%`
+**Dockerfile**  █░░░░░░░░░░░░░░░░░░░░░ `3.1%`
 
 ---
 
-### [wcx](https://github.com/v01dst/wcx)
-wc with superpowers — lines/words/chars/bytes, unicode-aware, top-word analytics. Rust, zero deps
+### [pastebin](https://github.com/v01dst/pastebin)
+Self-hostable pastebin — expiring pastes, burn-after-read secrets, web UI + JSON API
 
-**Rust**  █████████████████████░ `97.3%`
-**Dockerfile**  █░░░░░░░░░░░░░░░░░░░░░ `2.7%`
-
----
-
-### [agentforge](https://github.com/v01dst/agentforge)
-AgentForge — model-agnostic AI agent framework, terminal CLI, SDK, and workflow engine
-
-**TypeScript**  ██████████████████████ `99.2%`
-**HTML**  ░░░░░░░░░░░░░░░░░░░░░░ `0.3%`
-**JavaScript**  ░░░░░░░░░░░░░░░░░░░░░░ `0.3%`
-**CSS**  ░░░░░░░░░░░░░░░░░░░░░░ `0.2%`
-
----
-
-### [url-shortener](https://github.com/v01dst/url-shortener)
-Short links with click analytics — custom slugs, rate limiting, self-hostable. Node/TypeScript/Fastify/SQLite
-
-**TypeScript**  ██████████████████████ `98.3%`
-**Dockerfile**  ░░░░░░░░░░░░░░░░░░░░░░ `1.7%`
-
----
-
-### [semver-tool](https://github.com/v01dst/semver-tool)
-Semantic versioning CLI — validate, compare, bump per strict semver 2.0.0. Go, zero deps
-
-**Go**  ██████████████████████ `98.2%`
+**TypeScript**  ██████████████████████ `98.2%`
 **Dockerfile**  ░░░░░░░░░░░░░░░░░░░░░░ `1.8%`
+
+---
+
+### [heartbeat-hub](https://github.com/v01dst/heartbeat-hub)
+Dead man's switch for cron jobs — silence detection, grace windows, webhook alerts. Pure stdlib
+
+**Python**  ██████████████████████ `98.1%`
+**Dockerfile**  ░░░░░░░░░░░░░░░░░░░░░░ `1.9%`
+
+---
+
+### [json-doctor](https://github.com/v01dst/json-doctor)
+JSON toolkit — validate with line/column errors, pretty/minify, structural stats, dot-path queries
+
+**Go**  ██████████████████████ `98.4%`
+**Dockerfile**  ░░░░░░░░░░░░░░░░░░░░░░ `1.6%`
+
+---
+
+### [pwgen-cli](https://github.com/v01dst/pwgen-cli)
+Cryptographically secure password generator — Go, zero deps, entropy meter, single binary
+
+**Go**  ██████████████████████ `98.6%`
+**Dockerfile**  ░░░░░░░░░░░░░░░░░░░░░░ `1.4%`
+
+---
+
+### [mock-data-forge](https://github.com/v01dst/mock-data-forge)
+Deterministic fake data API — users/orders/posts, same seed = same data. Perfect for tests
+
+**TypeScript**  █████████████████████░ `97.5%`
+**Dockerfile**  █░░░░░░░░░░░░░░░░░░░░░ `2.5%`
 
 <!-- LANGUAGES:END -->
 
