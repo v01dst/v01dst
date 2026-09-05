@@ -105,12 +105,12 @@
 
 | Repo | What it is | Lang | ★ | Last push |
 | --- | :--- | :--- | :---: | :---: |
-| [markdawn](https://github.com/v01dst/markdawn) | Markdown to HTML rendering API — GFM tables/task lists, XSS sanitization, full-page mode | TypeScript | 1 | 2026-09-05 |
 | [pastebin](https://github.com/v01dst/pastebin) | Self-hostable pastebin — expiring pastes, burn-after-read secrets, web UI + JSON API | TypeScript | 1 | 2026-09-05 |
-| [heartbeat-hub](https://github.com/v01dst/heartbeat-hub) | Dead man's switch for cron jobs — silence detection, grace windows, webhook alerts. Pure stdlib | Python | 1 | 2026-09-05 |
-| [json-doctor](https://github.com/v01dst/json-doctor) | JSON toolkit — validate with line/column errors, pretty/minify, structural stats, dot-path queries | Go | 1 | 2026-09-05 |
-| [pwgen-cli](https://github.com/v01dst/pwgen-cli) | Cryptographically secure password generator — Go, zero deps, entropy meter, single binary | Go | 1 | 2026-09-05 |
-| [mock-data-forge](https://github.com/v01dst/mock-data-forge) | Deterministic fake data API — users/orders/posts, same seed = same data. Perfect for tests | TypeScript | 0 | 2026-09-05 |
+| [markdawn](https://github.com/v01dst/markdawn) | Markdown to HTML rendering API — GFM tables/task lists, XSS sanitization, full-page mode | TypeScript | 1 | 2026-09-05 |
+| [link-preview-api](https://github.com/v01dst/link-preview-api) | Link unfurler API — URL in, OpenGraph/Twitter/favicon metadata out. SSRF-hardened, redirect-aware | TypeScript | 0 | 2026-09-05 |
+| [url-shortener](https://github.com/v01dst/url-shortener) | Short links with click analytics — custom slugs, rate limiting, self-hostable. Node/TypeScript/Fastify/SQLite | TypeScript | 1 | 2026-09-05 |
+| [commit-lint](https://github.com/v01dst/commit-lint) | Conventional commit linter — 11 types, scopes, breaking changes, git-hook & CI ready. Pure stdlib | Python | 0 | 2026-09-05 |
+| [qr-code-service](https://github.com/v01dst/qr-code-service) | QR code generation API — PNG & SVG, custom colors/size, error correction levels. One GET request | TypeScript | 1 | 2026-09-05 |
 
 <!-- STATUS:END -->
 
@@ -120,14 +120,6 @@
 
 <!-- LANGUAGES:START -->
 
-### [markdawn](https://github.com/v01dst/markdawn)
-Markdown to HTML rendering API — GFM tables/task lists, XSS sanitization, full-page mode
-
-**TypeScript**  █████████████████████░ `96.9%`
-**Dockerfile**  █░░░░░░░░░░░░░░░░░░░░░ `3.1%`
-
----
-
 ### [pastebin](https://github.com/v01dst/pastebin)
 Self-hostable pastebin — expiring pastes, burn-after-read secrets, web UI + JSON API
 
@@ -136,35 +128,43 @@ Self-hostable pastebin — expiring pastes, burn-after-read secrets, web UI + JS
 
 ---
 
-### [heartbeat-hub](https://github.com/v01dst/heartbeat-hub)
-Dead man's switch for cron jobs — silence detection, grace windows, webhook alerts. Pure stdlib
+### [markdawn](https://github.com/v01dst/markdawn)
+Markdown to HTML rendering API — GFM tables/task lists, XSS sanitization, full-page mode
 
-**Python**  ██████████████████████ `98.1%`
-**Dockerfile**  ░░░░░░░░░░░░░░░░░░░░░░ `1.9%`
+**TypeScript**  █████████████████████░ `96.8%`
+**Dockerfile**  █░░░░░░░░░░░░░░░░░░░░░ `3.2%`
 
 ---
 
-### [json-doctor](https://github.com/v01dst/json-doctor)
-JSON toolkit — validate with line/column errors, pretty/minify, structural stats, dot-path queries
+### [link-preview-api](https://github.com/v01dst/link-preview-api)
+Link unfurler API — URL in, OpenGraph/Twitter/favicon metadata out. SSRF-hardened, redirect-aware
 
-**Go**  ██████████████████████ `98.4%`
+**TypeScript**  █████████████████████░ `97.2%`
+**Dockerfile**  █░░░░░░░░░░░░░░░░░░░░░ `2.8%`
+
+---
+
+### [url-shortener](https://github.com/v01dst/url-shortener)
+Short links with click analytics — custom slugs, rate limiting, self-hostable. Node/TypeScript/Fastify/SQLite
+
+**TypeScript**  ██████████████████████ `98.4%`
 **Dockerfile**  ░░░░░░░░░░░░░░░░░░░░░░ `1.6%`
 
 ---
 
-### [pwgen-cli](https://github.com/v01dst/pwgen-cli)
-Cryptographically secure password generator — Go, zero deps, entropy meter, single binary
+### [commit-lint](https://github.com/v01dst/commit-lint)
+Conventional commit linter — 11 types, scopes, breaking changes, git-hook & CI ready. Pure stdlib
 
-**Go**  ██████████████████████ `98.6%`
-**Dockerfile**  ░░░░░░░░░░░░░░░░░░░░░░ `1.4%`
+**Python**  ██████████████████████ `99.0%`
+**Dockerfile**  ░░░░░░░░░░░░░░░░░░░░░░ `1.0%`
 
 ---
 
-### [mock-data-forge](https://github.com/v01dst/mock-data-forge)
-Deterministic fake data API — users/orders/posts, same seed = same data. Perfect for tests
+### [qr-code-service](https://github.com/v01dst/qr-code-service)
+QR code generation API — PNG & SVG, custom colors/size, error correction levels. One GET request
 
-**TypeScript**  █████████████████████░ `97.5%`
-**Dockerfile**  █░░░░░░░░░░░░░░░░░░░░░ `2.5%`
+**TypeScript**  █████████████████████░ `96.2%`
+**Dockerfile**  █░░░░░░░░░░░░░░░░░░░░░ `3.8%`
 
 <!-- LANGUAGES:END -->
 
