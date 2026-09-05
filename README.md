@@ -105,12 +105,12 @@
 
 | Repo | What it is | Lang | ★ | Last push |
 | --- | :--- | :--- | :---: | :---: |
+| [devdating](https://github.com/v01dst/devdating) | No description | Python | 3 | 2026-09-05 |
+| [v01dst](https://github.com/v01dst/v01dst) | No description | Python | 2 | 2026-09-05 |
 | [pastebin](https://github.com/v01dst/pastebin) | Self-hostable pastebin — expiring pastes, burn-after-read secrets, web UI + JSON API | TypeScript | 1 | 2026-09-05 |
 | [markdawn](https://github.com/v01dst/markdawn) | Markdown to HTML rendering API — GFM tables/task lists, XSS sanitization, full-page mode | TypeScript | 1 | 2026-09-05 |
 | [link-preview-api](https://github.com/v01dst/link-preview-api) | Link unfurler API — URL in, OpenGraph/Twitter/favicon metadata out. SSRF-hardened, redirect-aware | TypeScript | 0 | 2026-09-05 |
 | [url-shortener](https://github.com/v01dst/url-shortener) | Short links with click analytics — custom slugs, rate limiting, self-hostable. Node/TypeScript/Fastify/SQLite | TypeScript | 1 | 2026-09-05 |
-| [commit-lint](https://github.com/v01dst/commit-lint) | Conventional commit linter — 11 types, scopes, breaking changes, git-hook & CI ready. Pure stdlib | Python | 0 | 2026-09-05 |
-| [qr-code-service](https://github.com/v01dst/qr-code-service) | QR code generation API — PNG & SVG, custom colors/size, error correction levels. One GET request | TypeScript | 1 | 2026-09-05 |
 
 <!-- STATUS:END -->
 
@@ -119,6 +119,24 @@
 <h2 align="center"> 📊 Language Breakdown 📊 </h2>
 
 <!-- LANGUAGES:START -->
+
+### [devdating](https://github.com/v01dst/devdating)
+No description
+
+**Python**  █████████████░░░░░░░░░ `60.5%`
+**TypeScript**  ██████░░░░░░░░░░░░░░░░ `27.1%`
+**Shell**  ██░░░░░░░░░░░░░░░░░░░░ `8.9%`
+**JavaScript**  █░░░░░░░░░░░░░░░░░░░░░ `2.4%`
+**Dockerfile**  ░░░░░░░░░░░░░░░░░░░░░░ `0.4%`
+
+---
+
+### [v01dst](https://github.com/v01dst/v01dst)
+No description
+
+**Python**  ██████████████████████ `100.0%`
+
+---
 
 ### [pastebin](https://github.com/v01dst/pastebin)
 Self-hostable pastebin — expiring pastes, burn-after-read secrets, web UI + JSON API
@@ -149,22 +167,6 @@ Short links with click analytics — custom slugs, rate limiting, self-hostable.
 
 **TypeScript**  ██████████████████████ `98.4%`
 **Dockerfile**  ░░░░░░░░░░░░░░░░░░░░░░ `1.6%`
-
----
-
-### [commit-lint](https://github.com/v01dst/commit-lint)
-Conventional commit linter — 11 types, scopes, breaking changes, git-hook & CI ready. Pure stdlib
-
-**Python**  ██████████████████████ `99.0%`
-**Dockerfile**  ░░░░░░░░░░░░░░░░░░░░░░ `1.0%`
-
----
-
-### [qr-code-service](https://github.com/v01dst/qr-code-service)
-QR code generation API — PNG & SVG, custom colors/size, error correction levels. One GET request
-
-**TypeScript**  █████████████████████░ `96.2%`
-**Dockerfile**  █░░░░░░░░░░░░░░░░░░░░░ `3.8%`
 
 <!-- LANGUAGES:END -->
 
