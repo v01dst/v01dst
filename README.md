@@ -96,6 +96,54 @@
 
 <hr>
 
+<h2 align="center"> 🔄 The Loop — 99 Real Projects 🔄 </h2>
+
+<p align="center">
+  <i>99 production-grade projects, built one per session — every one runnable,<br>tested, Dockerized and CI-green, servable to real clients.</i>
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/progress-25%20%2F%2099-61DAFB?style=for-the-badge" alt="25 of 99"/>&nbsp;&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/tests-~400%20passing-2EA043?style=for-the-badge" alt="tests"/>&nbsp;&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/languages-TS%20·%20Go%20·%20Python%20·%20Rust-F05033?style=for-the-badge" alt="stacks"/>
+</p>
+
+<p align="center">
+  <b>█████░░░░░░░░░░░░░░░░░░░</b>&nbsp; <code>25 / 99 · 25%</code>
+</p>
+
+<p align="center">
+  🔗 <a href="https://github.com/v01dst/url-shortener">url-shortener</a> ·
+  <a href="https://github.com/v01dst/pastebin">pastebin</a> ·
+  <a href="https://github.com/v01dst/heartbeat-hub">heartbeat-hub</a> ·
+  <a href="https://github.com/v01dst/log-sieve">log-sieve</a> ·
+  <a href="https://github.com/v01dst/qr-code-service">qr-code-service</a> ·
+  <a href="https://github.com/v01dst/semver-tool">semver-tool</a> ·
+  <a href="https://github.com/v01dst?tab=repositories" title="All 99">…and 19 more</a>
+</p>
+
+<hr>
+
+<h2 align="center"> 🌐 Open Source 🌐 </h2>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/PRs%20opened-10-61DAFB?style=for-the-badge" alt="PRs"/>&nbsp;&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/merged-1-2EA043?style=for-the-badge" alt="merged"/>&nbsp;&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/repos-9-F05033?style=for-the-badge" alt="repos"/>&nbsp;&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/organizations-fastify-000000?style=for-the-badge&logo=fastify&logoColor=white" alt="org"/>
+</p>
+
+<p align="center">
+  ✅ <a href="https://github.com/Human-Agent-Society/reef/pull/247" title="Merged">Human-Agent-Society/reef #247 — request validation fix</a> <i>(merged)</i><br>
+  🔀 <a href="https://github.com/fastify/point-of-view/pull/527" title="fastify">fastify/point-of-view #527 — custom propertyName typedefs</a><br>
+  🔀 <a href="https://github.com/rtk-ai/rtk/pull/3872" title="rtk">rtk-ai/rtk #3872 — golangci-lint exit-code propagation</a><br>
+  🔀 <a href="https://github.com/AynOps/AynOps/pull/196" title="AynOps">AynOps/AynOps #196 — WAF false-positive detection (approved)</a><br>
+  🔀 <a href="https://github.com/vavallee/bindery/pull/2407" title="bindery">vavallee/bindery #2407 — regex cache perf fix</a><br>
+  <i>…plus Soup, adduce & Overflow — Go · TypeScript · Python</i>
+</p>
+
+<hr>
+
 <h2 align="center"> 🛰️ Live Status 🛰️ </h2>
 <p align="center"><i>refreshed every 6 hours by a GitHub Action</i></p>
 
