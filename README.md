@@ -2,65 +2,49 @@
 
 <h1 align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=30&duration=3000&pause=1000&color=61DAFB&center=true&vCenter=true&width=780&height=70&lines=Mahmoud+Ahmed;I+build+tools+I+actually+use;99+projects%2C+one+at+a+time;Go+%E2%80%A2+TypeScript+%E2%80%A2+Python+%E2%80%A2+Rust" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=30&duration=3000&pause=1000&color=61DAFB&center=true&vCenter=true&width=760&height=70&lines=Hello,+There!+%F0%9F%91%8B;This+is+Mahmoud...;Developer+%E2%80%A2+Designer+%E2%80%A2+Builder;I+build+software+%26+turn+ideas+into+real+products;Now+building+Kernl+%26+AgentForge" alt="Typing SVG" />
   </a>
 </h1>
 
 <p align="center">
+  <a href="https://github.com/v01dst"><img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://discord.com/users/9p.1"><img src="https://img.shields.io/badge/discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"/></a>&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://github.com/v01dst?tab=repositories"><img src="https://img.shields.io/badge/projects-181717?style=for-the-badge&logo=github&logoColor=white" alt="Projects"/></a>
 </p>
 
 <p align="center">
-  👋 I'm Mahmoud — developer from Egypt, building under <b>Evorene</b>.<br>
-  🔨 I run a loop: build a small, finished, real tool → ship it → repeat. 25 of 99 done so far.<br>
-  🧰 Every project is runnable, tested, CI-checked, and self-hostable — no throwaway demos.<br>
-  🌱 Currently deep in Go CLIs, TypeScript/Fastify services, and Rust one-binaries.<br>
-  💬 Want to talk shop or hire me? Discord: <code>9p.1</code>
+  🔭 I'm currently building <b>Kernl</b> — an AI-powered platform that turns startup ideas into real products<br>
+  🤖 Also building <b>AgentForge</b> — a model-agnostic AI agent framework, CLI & workflow engine<br>
+  🌱 Exploring AI systems, cybersecurity & product development<br>
+  💬 Ask me about anything — <a href="https://github.com/v01dst/v01dst/issues" title="Issues">open an issue</a> or ping me on Discord<br>
+  ⚡ I learn by building. If I don't know how something works, I build something that forces me to find out
 </p>
-
-<hr>
-
-<h2 align="center"> 🚩 The 99 Loop </h2>
-
-<p align="center">
-  One at a time. No duplicated ideas. Each one needs to be good enough to hand a real client.
-</p>
-
-<p align="center">
-  <a href="https://github.com/v01dst/url-shortener" title="url-shortener"><img align="left" height="115" src="https://github-readme-stats-fast.vercel.app/api/pin/?username=v01dst&repo=url-shortener&theme=react&border_color=61dafb&border_radius=10" alt="url-shortener"/></a>
-  <a href="https://github.com/v01dst/pastebin" title="pastebin"><img align="right" height="115" src="https://github-readme-stats-fast.vercel.app/api/pin/?username=v01dst&repo=pastebin&theme=react&border_color=61dafb&border_radius=10" alt="pastebin"/></a>
-</p>
-<br/><br/><br/><br/><br/><br/>
-<p align="center">
-  <a href="https://github.com/v01dst/croni" title="croni"><img align="left" height="115" src="https://github-readme-stats-fast.vercel.app/api/pin/?username=v01dst&repo=croni&theme=react&border_color=61dafb&border_radius=10" alt="croni"/></a>
-  <a href="https://github.com/v01dst/json-doctor" title="json-doctor"><img align="right" height="115" src="https://github-readme-stats-fast.vercel.app/api/pin/?username=v01dst&repo=json-doctor&theme=react&border_color=61dafb&border_radius=10" alt="json-doctor"/></a>
-</p>
-<br/><br/><br/><br/><br/><br/>
-
-<h4 align="center">
-  <a href="https://github.com/v01dst?tab=repositories" title="Show all">🔎 49 more — fetchcraft, agentwatch, agentforge, and the rest of the loop 🔍</a>
-</h4>
 
 <hr>
 
 <h2 align="center"> ⚙️ Tools of Trade ⚙️ </h2>
 <br>
 <p align="center">
-  <img src="https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white" alt="Go"/>&nbsp;&nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript"/>&nbsp;&nbsp;&nbsp;
   <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="Python"/>&nbsp;&nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white" alt="Rust"/>&nbsp;&nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js"/>&nbsp;&nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/fastify-000000.svg?style=for-the-badge&logo=fastify&logoColor=white" alt="Fastify"/>
+  <img src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript"/>&nbsp;&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" alt="JavaScript"/>&nbsp;&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" alt="React"/>&nbsp;&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white" alt="Next.js"/>&nbsp;&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js"/>
 </p>
 <p align="center">
-  <img src="https://img.shields.io/badge/sqlite-003B57.svg?style=for-the-badge&logo=sqlite&logoColor=white" alt="SQLite"/>&nbsp;&nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" alt="React"/>&nbsp;&nbsp;&nbsp;
   <img src="https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="TailwindCSS"/>&nbsp;&nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/docker-2496ED.svg?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/>&nbsp;&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white" alt="Rust"/>&nbsp;&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white" alt="Go"/>&nbsp;&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white" alt="C"/>&nbsp;&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++"/>&nbsp;&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
+</p>
+<p align="center">
+  <img src="https://img.shields.io/badge/linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux"/>&nbsp;&nbsp;&nbsp;
   <img src="https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white" alt="GitHub Actions"/>&nbsp;&nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux"/>
+  <img src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white" alt="Figma"/>&nbsp;&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/blender-%23EA7600.svg?style=for-the-badge&logo=blender&logoColor=white" alt="Blender"/>
 </p>
 
 <hr>
@@ -88,13 +72,37 @@
 
 <hr>
 
+<h2 align="center"> 👨‍💻 Repositories 👨‍💻 </h2>
+<br>
+<div width="100%" align="center">
+  <a href="https://github.com/v01dst/agentforge" title="AgentForge"><img align="left" height="115" src="https://github-readme-stats-fast.vercel.app/api/pin/?username=v01dst&repo=agentforge&theme=react&border_color=61dafb&border_radius=10" alt="agentforge"/></a>
+  <a href="https://github.com/v01dst/croni" title="croni"><img align="right" height="115" src="https://github-readme-stats-fast.vercel.app/api/pin/?username=v01dst&repo=croni&theme=react&border_color=61dafb&border_radius=10" alt="croni"/></a>
+</div>
+<br/><br/><br/><br/><br/><br/>
+<div width="100%" align="center">
+  <a href="https://github.com/v01dst/fetchcraft" title="fetchcraft"><img align="left" height="115" src="https://github-readme-stats-fast.vercel.app/api/pin/?username=v01dst&repo=fetchcraft&theme=react&border_color=61dafb&border_radius=10" alt="fetchcraft"/></a>
+  <a href="https://github.com/v01dst/patchwork" title="patchwork"><img align="right" height="115" src="https://github-readme-stats-fast.vercel.app/api/pin/?username=v01dst&repo=patchwork&theme=react&border_color=61dafb&border_radius=10" alt="patchwork"/></a>
+</div>
+<br/><br/><br/><br/><br/><br/>
+<div width="100%" align="center">
+  <a href="https://github.com/v01dst/gitfeel" title="gitfeel"><img align="left" height="115" src="https://github-readme-stats-fast.vercel.app/api/pin/?username=v01dst&repo=gitfeel&theme=react&border_color=61dafb&border_radius=10" alt="gitfeel"/></a>
+  <a href="https://github.com/v01dst/sql-guard" title="sql-guard"><img align="right" height="115" src="https://github-readme-stats-fast.vercel.app/api/pin/?username=v01dst&repo=sql-guard&theme=react&border_color=61dafb&border_radius=10" alt="sql-guard"/></a>
+</div>
+<br/><br/><br/><br/><br/><br/>
+
+<h4 align="center">
+  <a href="https://github.com/v01dst?tab=repositories" title="Show Repositories">🔎 Show More 🔍</a>
+</h4>
+
+<hr>
+
 <!-- STATUS:START -->
 
-**⚡ 49 public repos · ⭐ 42 total stars · 👥 2 followers · 🚀 latest push `2026-09-07`**
+**⚡ 49 public repos · ⭐ 42 total stars · 👥 2 followers · 🚀 latest push `2026-09-06`**
 
 | Repo | What it is | Lang | ★ | Last push |
 | --- | :--- | :--- | :---: | :---: |
-| [v01dst](https://github.com/v01dst/v01dst) | No description | Python | 2 | 2026-09-07 |
+| [v01dst](https://github.com/v01dst/v01dst) | No description | Python | 2 | 2026-09-06 |
 | [devdating](https://github.com/v01dst/devdating) | No description | Python | 3 | 2026-09-05 |
 | [pastebin](https://github.com/v01dst/pastebin) | Self-hostable pastebin — expiring pastes, burn-after-read secrets, web UI + JSON API | TypeScript | 1 | 2026-09-05 |
 | [markdawn](https://github.com/v01dst/markdawn) | Markdown to HTML rendering API — GFM tables/task lists, XSS sanitization, full-page mode | TypeScript | 1 | 2026-09-05 |
