@@ -1,7 +1,5 @@
-<h1 align="center">Mahmoud Ahmed</h1>
-
 <p align="center">
-  I build small, finished software — tools I actually use.
+  <img src="assets/mahmoud-header.png" alt="Mahmoud Ahmed — I build small, finished software — tools I actually use." width="1000"/>
 </p>
 
 <p align="center">
