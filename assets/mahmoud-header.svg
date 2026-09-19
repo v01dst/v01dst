@@ -1,46 +1,37 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="1200" height="360" viewBox="0 0 1200 360" role="img" aria-labelledby="title desc">
 <title id="title">Mahmoud Ahmed GitHub profile banner</title>
-<desc id="desc">Dark minimal developer banner with orange geometric signal lines and Mahmoud Ahmed name.</desc>
+<desc id="desc">Bright white framed developer banner with orange geometric accents.</desc>
 <defs>
-  <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
-    <stop offset="0" stop-color="#070304"/>
-    <stop offset="0.55" stop-color="#0d0607"/>
-    <stop offset="1" stop-color="#160807"/>
-  </linearGradient>
-  <radialGradient id="glow" cx="78%" cy="42%" r="55%">
-    <stop offset="0" stop-color="#ff4401" stop-opacity=".30"/>
-    <stop offset=".45" stop-color="#d94a2d" stop-opacity=".09"/>
-    <stop offset="1" stop-color="#000000" stop-opacity="0"/>
-  </radialGradient>
-  <filter id="blur"><feGaussianBlur stdDeviation="28"/></filter>
-  <pattern id="grid" width="36" height="36" patternUnits="userSpaceOnUse">
-    <path d="M36 0H0V36" fill="none" stroke="#ffffff" stroke-opacity=".045"/>
+  <pattern id="grid" width="32" height="32" patternUnits="userSpaceOnUse">
+    <path d="M32 0H0V32" fill="none" stroke="#111111" stroke-opacity=".045"/>
   </pattern>
+  <linearGradient id="wash" x1="0" y1="0" x2="1" y2="1">
+    <stop offset="0" stop-color="#ffffff"/>
+    <stop offset=".72" stop-color="#fffaf7"/>
+    <stop offset="1" stop-color="#fff2eb"/>
+  </linearGradient>
 </defs>
-<rect width="1200" height="360" fill="url(#bg)"/>
-<rect width="1200" height="360" fill="url(#grid)"/>
-<rect width="1200" height="360" fill="url(#glow)"/>
-<circle cx="970" cy="115" r="110" fill="#ff4401" opacity=".13" filter="url(#blur)"/>
-<path d="M720 0L1035 315" stroke="#ff4401" stroke-width="2" opacity=".22"/>
-<path d="M810 0L1170 360" stroke="#ff4401" stroke-width="1" opacity=".13"/>
-<path d="M1200 72L912 360" stroke="#ffffff" stroke-width="1" opacity=".10"/>
-<path d="M1035 0L675 360" stroke="#ffffff" stroke-width="1" opacity=".07"/>
-<g fill="none" stroke="#ff4401" stroke-width="2">
-  <path d="M780 255h110l38-38h92"/>
-  <path d="M850 285h78l22-22h145"/>
-  <path d="M1015 160h72l28-28h55"/>
+<rect width="1200" height="360" fill="#ffffff"/>
+<rect x="18" y="18" width="1164" height="324" rx="10" fill="url(#wash)" stroke="#171717" stroke-width="2"/>
+<rect x="32" y="32" width="1136" height="296" rx="6" fill="url(#grid)"/>
+<rect x="32" y="32" width="1136" height="296" rx="6" fill="none" stroke="#d8d8d8" stroke-width="1"/>
+<path d="M32 74H1168" stroke="#ff4401" stroke-width="3"/>
+<path d="M32 75H310" stroke="#111111" stroke-width="1"/>
+<path d="M902 328L1168 62" stroke="#ff4401" stroke-width="2" opacity=".75"/>
+<path d="M1000 328L1168 160" stroke="#111111" stroke-width="1" opacity=".3"/>
+<path d="M930 90h92l24-24h98" fill="none" stroke="#ff4401" stroke-width="2"/>
+<path d="M970 118h62l24-24h88" fill="none" stroke="#111111" stroke-width="1.5" opacity=".65"/>
+<circle cx="1022" cy="90" r="4" fill="#ff4401"/>
+<circle cx="1056" cy="94" r="3" fill="#111111"/>
+<g font-family="Arial, Helvetica, sans-serif">
+  <text x="70" y="132" font-size="16" font-weight="700" letter-spacing="5" fill="#ff4401">V01DST / ENGINEERING</text>
+  <text x="70" y="193" font-size="54" font-weight="700" letter-spacing="1" fill="#111111">MAHMOUD AHMED</text>
+  <text x="72" y="229" font-size="19" font-weight="500" letter-spacing="2" fill="#4b4b4b">BUILDING SYSTEMS · PRODUCTS · IDEAS</text>
 </g>
-<g fill="#ff4401">
-  <circle cx="890" cy="255" r="4"/><circle cx="1075" cy="217" r="4"/><circle cx="928" cy="285" r="4"/><circle cx="1100" cy="132" r="4"/>
+<g font-family="monospace" font-size="12" fill="#555555">
+  <text x="70" y="302">github.com/v01dst</text>
+  <text x="1082" y="302">01 / 01</text>
 </g>
-<g fill="#ffffff" font-family="Arial, Helvetica, sans-serif">
-  <text x="72" y="118" font-size="18" letter-spacing="5" fill="#ff6a35">V01DST / ENGINEERING</text>
-  <text x="72" y="178" font-size="56" font-weight="700" letter-spacing="1">MAHMOUD AHMED</text>
-  <text x="74" y="218" font-size="20" letter-spacing="2.2" fill="#d9d4d2">BUILDING SYSTEMS, PRODUCTS &amp; TOOLS</text>
-  <text x="74" y="282" font-size="15" letter-spacing="2" fill="#8e8582">KERNL  ·  CTXSLIM  ·  EVORENE</text>
-</g>
-<g font-family="monospace" font-size="13" fill="#ff6a35">
-  <text x="72" y="326">github.com/v01dst</text>
-  <text x="1050" y="326">01 / 01</text>
-</g>
+<path d="M70 270H370" stroke="#111111" stroke-width="1"/>
+<path d="M70 274H220" stroke="#ff4401" stroke-width="2"/>
 </svg>
