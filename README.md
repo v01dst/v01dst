@@ -1,10 +1,8 @@
 <div align="center">
 
+<img src="./assets/profile-frame.svg" alt="" width="100%" />
+
 <img src="./assets/mahmoud-header.svg" alt="Mahmoud Ahmed — Engineering" width="100%" />
-
-<br>
-
-### FULL-STACK · AI · SYSTEMS · DESIGN
 
 </div>
 
@@ -115,7 +113,6 @@ Cold > Egyptian summer
 
 [![Discord](https://img.shields.io/badge/DISCORD-9p.1-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/9p.1)
 [![LinkedIn](https://img.shields.io/badge/LINKEDIN-MAHMOUD_AHMED-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mahmoud-ahmed-8a349842b/)
-[![GitHub](https://img.shields.io/badge/GITHUB-v01dst-111111?style=for-the-badge&logo=github&logoColor=white)](https://github.com/v01dst)
 
 </div>
 
@@ -123,9 +120,7 @@ Cold > Egyptian summer
 
 <div align="center">
 
-<img src="./assets/mahmoud-header.svg" alt="" width="100%" />
-
-<br>
+<img src="./assets/profile-frame.svg" alt="" width="100%" />
 
 **still building. still learning. still curious.**
 
