@@ -1,5 +1,17 @@
 <div align="center">
 
+<img src="./assets/mahmoud-header.svg" alt="Mahmoud Ahmed — Engineering" width="100%" />
+
+<br>
+
+### FULL-STACK · AI · SYSTEMS · DESIGN
+
+</div>
+
+---
+
+<div align="center">
+
 # MAHMOUD AHMED
 
 **Full-stack developer · AI tinkerer · Product builder · Designer**
@@ -110,6 +122,10 @@ Cold > Egyptian summer
 ---
 
 <div align="center">
+
+<img src="./assets/mahmoud-header.svg" alt="" width="100%" />
+
+<br>
 
 **still building. still learning. still curious.**
 
