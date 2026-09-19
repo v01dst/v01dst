@@ -1,0 +1,22 @@
+<svg width="1200" height="90" viewBox="0 0 1200 90" fill="none" xmlns="http://www.w3.org/2000/svg">
+<defs>
+  <linearGradient id="g" x1="0" y1="0" x2="1200" y2="0">
+    <stop offset="0" stop-color="#111"/>
+    <stop offset=".25" stop-color="#FF4401"/>
+    <stop offset=".5" stop-color="#111"/>
+    <stop offset=".75" stop-color="#FF4401"/>
+    <stop offset="1" stop-color="#111"/>
+  </linearGradient>
+  <filter id="glow"><feGaussianBlur stdDeviation="3" result="b"/><feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge></filter>
+</defs>
+<rect x="8" y="8" width="1184" height="74" rx="18" stroke="#111" stroke-width="2"/>
+<rect x="14" y="14" width="1172" height="62" rx="14" stroke="#ddd" stroke-width="1"/>
+<path d="M28 45H1172" stroke="#111" stroke-width="1" stroke-dasharray="3 12"/>
+<path d="M40 45H1160" stroke="url(#g)" stroke-width="3" stroke-linecap="round" stroke-dasharray="80 1120" filter="url(#glow)">
+  <animate attributeName="stroke-dashoffset" from="1200" to="0" dur="3s" repeatCount="indefinite"/>
+</path>
+<circle cx="40" cy="45" r="4" fill="#FF4401"><animate attributeName="cx" values="40;1160;40" dur="3s" repeatCount="indefinite"/></circle>
+<circle cx="1160" cy="45" r="3" fill="#111"><animate attributeName="cx" values="1160;40;1160" dur="3s" repeatCount="indefinite"/></circle>
+<path d="M30 25H180 M1020 65H1170" stroke="#FF4401" stroke-width="2"/>
+<text x="600" y="51" text-anchor="middle" font-family="Arial, sans-serif" font-size="11" letter-spacing="5" fill="#111">MAHMOUD AHMED / FRAME 01</text>
+</svg>
