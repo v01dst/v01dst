@@ -78,7 +78,16 @@ I'm especially interested in software that sits between **an idea and a finished
 
 ---
 
-## 05 / HOW I WORK
+## 05 / CURRENT PROJECTS
+
+- **Kernl** — AI business operating system for turning ideas into structured companies.
+- **AgentForge** — model-agnostic agent runtime and coding-agent platform.
+- **ctxslim** — local MCP context compression and schema-discovery tooling.
+- **paletteq** — deterministic image palette extraction for CLI and design workflows.
+
+---
+
+## 06 / HOW I WORK
 
 > **Think deeply. Build quickly. Keep it replaceable.**
 
@@ -88,7 +97,7 @@ I want the right tools, clean interfaces, understandable systems, and enough fle
 
 ---
 
-## 06 / OUTSIDE CODE
+## 07 / OUTSIDE CODE
 
 **Music**  
 Drake · Billie Eilish · Laufey
@@ -107,7 +116,7 @@ Cold > Egyptian summer
 
 ---
 
-## 07 / FIND ME
+## 08 / FIND ME
 
 <div align="center">
 
