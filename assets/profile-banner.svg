@@ -1,35 +1,17 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="390" viewBox="0 0 1200 390" role="img" aria-labelledby="title desc">
-<title id="title">Mahmoud Ahmed — software, systems, and tools</title>
-<desc id="desc">A dark technical editorial banner with a code window, abstract system map, and lime signal color.</desc>
-<defs>
- <pattern id="grid" width="28" height="28" patternUnits="userSpaceOnUse"><path d="M28 0H0V28" fill="none" stroke="#dbe4dc" stroke-opacity=".045"/></pattern>
- <linearGradient id="glow" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#c7f36b" stop-opacity=".18"/><stop offset="1" stop-color="#c7f36b" stop-opacity="0"/></linearGradient>
-</defs>
-<rect width="1200" height="390" rx="22" fill="#0b0e12"/>
-<rect x="1" y="1" width="1198" height="388" rx="21" fill="url(#grid)" stroke="#242b31" stroke-width="2"/>
-<circle cx="1020" cy="155" r="215" fill="url(#glow)"/>
-<path d="M28 82H1172M28 337H1172" stroke="#252c31"/>
-<text x="52" y="54" fill="#c7f36b" font-family="monospace" font-size="13" letter-spacing="3">MAHMOUD AHMED / SOFTWARE ENGINEERING</text>
-<text x="52" y="158" fill="#f2f4ee" font-family="Arial, Helvetica, sans-serif" font-size="62" font-weight="700" letter-spacing="-1">Useful tools.</text>
-<text x="52" y="224" fill="#f2f4ee" font-family="Arial, Helvetica, sans-serif" font-size="62" font-weight="700" letter-spacing="-1">Thoughtful systems.</text>
-<text x="54" y="270" fill="#aab3ad" font-family="Arial, Helvetica, sans-serif" font-size="19">Developer tooling · AI agents · MCP · database safety</text>
-<rect x="54" y="296" width="186" height="28" rx="14" fill="#c7f36b"/>
-<text x="147" y="315" text-anchor="middle" fill="#10140d" font-family="monospace" font-size="12" font-weight="700" letter-spacing="1">OPEN SOURCE BUILDER</text>
-<g transform="translate(735 105)">
- <rect width="388" height="178" rx="12" fill="#10151a" stroke="#344038" stroke-width="1.5"/>
- <path d="M0 38H388" stroke="#344038"/>
- <circle cx="20" cy="19" r="4" fill="#c7f36b"/><circle cx="36" cy="19" r="4" fill="#667168"/><circle cx="52" cy="19" r="4" fill="#667168"/>
- <text x="74" y="23" fill="#7f8a82" font-family="monospace" font-size="11">~/projects</text>
- <text x="24" y="72" fill="#c7f36b" font-family="monospace" font-size="14">const</text><text x="71" y="72" fill="#e5e9e3" font-family="monospace" font-size="14">idea = {</text>
- <text x="42" y="99" fill="#9faaa1" font-family="monospace" font-size="13">problem: "real",</text>
- <text x="42" y="124" fill="#9faaa1" font-family="monospace" font-size="13">solution: "useful",</text>
- <text x="42" y="149" fill="#c7f36b" font-family="monospace" font-size="13">ship: true</text>
- <text x="24" y="164" fill="#e5e9e3" font-family="monospace" font-size="14">};</text>
-</g>
-<g transform="translate(887 305)" fill="none" stroke="#c7f36b" stroke-width="2">
- <circle cx="0" cy="0" r="5" fill="#c7f36b"/><circle cx="85" cy="0" r="5" fill="#c7f36b"/><circle cx="170" cy="0" r="5" fill="#c7f36b"/>
- <path d="M5 0H80M90 0h75"/>
-</g>
-<text x="52" y="365" fill="#718078" font-family="monospace" font-size="11" letter-spacing="2">GITHUB.COM/V01DST</text>
-<text x="1148" y="365" text-anchor="end" fill="#718078" font-family="monospace" font-size="11" letter-spacing="2">01 — BUILD IN PUBLIC</text>
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="310" viewBox="0 0 1200 310" role="img" aria-labelledby="title desc">
+<title id="title">Mahmoud Ahmed — software for builders</title>
+<desc id="desc">A clean ivory profile banner with a direct message and restrained blue and coral geometry.</desc>
+<rect width="1200" height="310" rx="20" fill="#F7F5EF"/>
+<rect x="1" y="1" width="1198" height="308" rx="19" fill="none" stroke="#D9DDE5" stroke-width="2"/>
+<rect x="44" y="44" width="5" height="222" rx="2.5" fill="#3D58C8"/>
+<text x="78" y="100" fill="#647084" font-family="monospace" font-size="13" letter-spacing="2.5">INDEPENDENT SOFTWARE BUILDER</text>
+<text x="76" y="166" fill="#1B2430" font-family="Arial, Helvetica, sans-serif" font-size="49" font-weight="700" letter-spacing="-1">Useful software for</text>
+<text x="76" y="222" fill="#1B2430" font-family="Arial, Helvetica, sans-serif" font-size="49" font-weight="700" letter-spacing="-1">people who build.</text>
+<text x="79" y="257" fill="#647084" font-family="Arial, Helvetica, sans-serif" font-size="16">Developer tools · AI agents · MCP</text>
+<circle cx="1007" cy="153" r="82" fill="#3D58C8"/>
+<circle cx="1007" cy="153" r="49" fill="#F7F5EF"/>
+<circle cx="1007" cy="153" r="17" fill="#EE765B"/>
+<path d="M1007 47V71M1007 235V259M901 153H925M1089 153H1113" stroke="#1B2430" stroke-width="2" stroke-linecap="round"/>
+<circle cx="1127" cy="71" r="7" fill="#EE765B"/>
+<circle cx="894" cy="236" r="5" fill="#EE765B"/>
 </svg>
