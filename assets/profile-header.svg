@@ -1,13 +1,11 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="110" viewBox="0 0 1200 110" role="img" aria-labelledby="title desc">
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="100" viewBox="0 0 1200 100" role="img" aria-labelledby="title desc">
 <title id="title">Mahmoud Ahmed profile header</title>
-<desc id="desc">Minimal dark logotype with an acid-lime signal and small engineering label.</desc>
-<rect width="1200" height="110" rx="18" fill="#0b0e12"/>
-<rect x="1" y="1" width="1198" height="108" rx="17" fill="none" stroke="#242b31" stroke-width="2"/>
-<rect x="28" y="25" width="5" height="60" rx="2.5" fill="#c7f36b"/>
-<text x="54" y="54" fill="#f3f5ef" font-family="Arial, Helvetica, sans-serif" font-size="26" font-weight="700" letter-spacing="3">V01DST</text>
-<text x="55" y="77" fill="#98a19b" font-family="monospace" font-size="12" letter-spacing="2">INDEPENDENT SOFTWARE BUILDER</text>
-<path d="M840 55h78l14-14h58" fill="none" stroke="#455146" stroke-width="2"/>
-<circle cx="932" cy="41" r="4" fill="#c7f36b"/>
-<text x="1000" y="60" fill="#dce2da" font-family="monospace" font-size="13" letter-spacing="2">BUILD / TEST / SHIP</text>
-<circle cx="1160" cy="55" r="5" fill="#c7f36b"/>
+<desc id="desc">A minimal ivory header with a blue monogram and coral accent.</desc>
+<rect width="1200" height="100" rx="14" fill="#F7F5EF"/>
+<path d="M24 78H1176" stroke="#D9DDE5"/>
+<rect x="30" y="23" width="54" height="54" rx="14" fill="#3D58C8"/>
+<text x="57" y="58" text-anchor="middle" fill="#FFFFFF" font-family="Arial, Helvetica, sans-serif" font-size="21" font-weight="700">MA</text>
+<text x="105" y="49" fill="#1B2430" font-family="Arial, Helvetica, sans-serif" font-size="22" font-weight="700" letter-spacing="1.5">MAHMOUD AHMED</text>
+<text x="106" y="68" fill="#647084" font-family="monospace" font-size="11" letter-spacing="1.5">SOFTWARE · AI · OPEN SOURCE</text>
+<circle cx="1165" cy="49" r="7" fill="#EE765B"/>
 </svg>
