@@ -1,56 +1,56 @@
 <div align="center">
 
-<img src="./assets/profile-frame.svg" alt="" width="100%" />
+<img src="./assets/profile-header.svg" alt="V01DST — Independent Software Builder" width="100%" />
 
-<img src="./assets/mahmoud-header.svg" alt="Mahmoud Ahmed — Engineering" width="100%" />
-
-# MAHMOUD AHMED
-
-### I build tools for people who build software.
-
-**Developer tooling · AI agents · MCP · systems**
-
-From agent runtimes and context tooling to safer database workflows, I like turning frustrating engineering problems into practical software.
-
-[Projects](#selected-projects) · [LinkedIn](https://www.linkedin.com/in/mahmoud-ahmed-8a349842b/) · [Get in touch](#contact)
+<img src="./assets/profile-banner.svg" alt="Mahmoud Ahmed — Useful tools. Thoughtful systems." width="100%" />
 
 </div>
 
----
+## About
 
-## What I care about
+I’m Mahmoud, a full-stack developer and product builder. I make practical software for people who build software: developer tools, AI agent systems, and focused utilities that solve real engineering problems.
 
-I’m a full-stack developer and product builder interested in the parts of software that make other software better: clear interfaces, dependable systems, useful automation, and tools that stay out of your way.
+My current interests are **AI agents, MCP, local-first software, and reliable developer workflows**.
 
-Lately, that has meant building around **AI agents and MCP**, while also making focused utilities for everyday engineering work.
-
-## Selected projects
+## Featured work
 
 | Project | What it does |
 | --- | --- |
-| [**AgentForge**](https://github.com/v01dst/agentforge) | A model-agnostic agent runtime and coding-agent platform, with a terminal UI, extensible tools, and permission controls. |
-| [**CtxSlim**](https://github.com/v01dst/ctxslim) | A local-first MCP proxy that reduces tool-catalog context while keeping your existing servers in place. |
-| [**DevDating**](https://github.com/v01dst/devdating) | Helps developers find open-source projects and contribution issues that fit their interests and skills. |
-| [**sql-guard**](https://github.com/v01dst/sql-guard) | Catches risky, potentially destructive SQL migrations before they reach production. |
-| [**sqlite-audit**](https://github.com/v01dst/sqlite-audit) | Read-only health and integrity checks for SQLite databases. |
-| [**paletteq**](https://github.com/v01dst/paletteq) | Deterministic color palette extraction from images, for the terminal or your own tools. |
+| [**AgentForge**](https://github.com/v01dst/agentforge) | A model-agnostic agent runtime and coding-agent platform with a terminal UI, extensible tools, and permission controls. |
+| [**CtxSlim**](https://github.com/v01dst/ctxslim) | A local-first MCP proxy that reduces tool-catalog context while keeping existing servers in place. |
+| [**DevDating**](https://github.com/v01dst/devdating) | Helps developers discover open-source projects and contribution issues that match their interests. |
+| [**sql-guard**](https://github.com/v01dst/sql-guard) | Flags risky SQL migrations before they reach production. |
+| [**sqlite-audit**](https://github.com/v01dst/sqlite-audit) | Read-only health, profiling, and integrity checks for SQLite databases. |
+| [**paletteq**](https://github.com/v01dst/paletteq) | Deterministic color palette extraction from images, as a CLI and TypeScript library. |
 
-More experiments and work in progress live in my [repositories](https://github.com/v01dst?tab=repositories).
+[Explore all repositories →](https://github.com/v01dst?tab=repositories)
 
-## How I build
-
-- **Solve a real annoyance.** Start with the problem and keep the first version focused.
-- **Make behavior understandable.** Prefer clear output, explicit controls, and useful documentation.
-- **Keep tools composable.** Build things that work from a terminal, in a workflow, or as part of a larger system.
-- **Learn by shipping.** Publish, listen, improve.
-
-## Toolbox
+## Languages
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=rust,go,python,typescript,react,nextjs,nodejs,git,github,figma&perline=10" alt="Rust, Go, Python, TypeScript, React, Next.js, Node.js, Git, GitHub, and Figma" />
+<img src="https://skillicons.dev/icons?i=rust,go,python,typescript,javascript,c,bash&perline=7" alt="Rust, Go, Python, TypeScript, JavaScript, C, and Bash" />
+
+<br />
+
+<img src="https://img.shields.io/badge/SQL-334155?style=for-the-badge&logo=sqlite&logoColor=white" alt="SQL" />
 
 </div>
+
+## Tools I reach for
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,git,github,figma&perline=6" alt="React, Next.js, Node.js, Git, GitHub, and Figma" />
+
+</div>
+
+## How I work
+
+- Start with a concrete problem and keep the first version focused.
+- Prefer readable systems, clear output, and explicit controls.
+- Make tools composable: useful in a terminal, a workflow, or a larger product.
+- Ship, learn from real use, and keep improving.
 
 ## Contact
 
@@ -60,11 +60,9 @@ More experiments and work in progress live in my [repositories](https://github.c
 
 </div>
 
----
+<img src="./assets/profile-frame.svg" alt="" width="100%" />
 
 <div align="center">
-
-<img src="./assets/profile-frame.svg" alt="" width="100%" />
 
 **Building useful things, one problem at a time.**
 
