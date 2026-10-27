@@ -4,124 +4,59 @@
 
 <img src="./assets/mahmoud-header.svg" alt="Mahmoud Ahmed — Engineering" width="100%" />
 
-</div>
-
----
-
-<div align="center">
-
 # MAHMOUD AHMED
 
-**Full-stack developer · AI tinkerer · Product builder · Designer**
+### I build tools for people who build software.
 
-I build software, explore systems, and turn weird ideas into things that actually work.
+**Developer tooling · AI agents · MCP · systems**
 
-[Discord](https://discord.com/users/9p.1) · [LinkedIn](https://www.linkedin.com/in/mahmoud-ahmed-8a349842b/) · [GitHub](https://github.com/v01dst)
+From agent runtimes and context tooling to safer database workflows, I like turning frustrating engineering problems into practical software.
 
-</div>
-
----
-
-## 01 / ABOUT
-
-I'm interested in the intersection of **software, AI, systems, design, and creative technology**.
-
-I like knowing what happens under the hood — not just making something work, but understanding *why* it works.
-
-My approach is pretty simple:
-
-- Build from first principles.
-- Keep systems modular and replaceable.
-- Make complex things feel simple.
-- Ship, learn, break things, rebuild better.
-
----
-
-## 02 / WHAT I DO
-
-| Area | Focus |
-|---|---|
-| **Software** | Full-stack applications, tooling, APIs, systems |
-| **AI** | Agents, MCP, model infrastructure, automation |
-| **Design** | Product UI, visual systems, 3D, creative direction |
-| **Systems** | Performance, developer tooling, local-first software |
-| **Security** | Learning offensive security and deeper systems concepts |
-
----
-
-## 03 / TOOLBOX
-
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=rust,c,go,shell,python,typescript,react,nextjs,nodejs,git,github,figma&perline=13" alt="Technology stack"/>
+[Projects](#selected-projects) · [LinkedIn](https://www.linkedin.com/in/mahmoud-ahmed-8a349842b/) · [Get in touch](#contact)
 
 </div>
 
 ---
 
-## 04 / CURRENTLY
+## What I care about
 
-**Building instead of collecting ideas.**
+I’m a full-stack developer and product builder interested in the parts of software that make other software better: clear interfaces, dependable systems, useful automation, and tools that stay out of your way.
 
-Right now I'm spending a lot of time around:
+Lately, that has meant building around **AI agents and MCP**, while also making focused utilities for everyday engineering work.
 
-```text
-AI agents              ████████████████████
-MCP & tooling          ██████████████████░░
-Systems engineering    █████████████████░░░
-Product & UI           ████████████████░░░░
-Cybersecurity          █████████████░░░░░░░
-Creative technology    ████████████░░░░░░░░
-```
+## Selected projects
 
-I'm especially interested in software that sits between **an idea and a finished product**.
+| Project | What it does |
+| --- | --- |
+| [**AgentForge**](https://github.com/v01dst/agentforge) | A model-agnostic agent runtime and coding-agent platform, with a terminal UI, extensible tools, and permission controls. |
+| [**CtxSlim**](https://github.com/v01dst/ctxslim) | A local-first MCP proxy that reduces tool-catalog context while keeping your existing servers in place. |
+| [**DevDating**](https://github.com/v01dst/devdating) | Helps developers find open-source projects and contribution issues that fit their interests and skills. |
+| [**sql-guard**](https://github.com/v01dst/sql-guard) | Catches risky, potentially destructive SQL migrations before they reach production. |
+| [**sqlite-audit**](https://github.com/v01dst/sqlite-audit) | Read-only health and integrity checks for SQLite databases. |
+| [**paletteq**](https://github.com/v01dst/paletteq) | Deterministic color palette extraction from images, for the terminal or your own tools. |
 
----
+More experiments and work in progress live in my [repositories](https://github.com/v01dst?tab=repositories).
 
-## 05 / CURRENT PROJECTS
+## How I build
 
-- **Kernl** — AI business operating system for turning ideas into structured companies.
-- **AgentForge** — model-agnostic agent runtime and coding-agent platform.
-- **ctxslim** — local MCP context compression and schema-discovery tooling.
-- **paletteq** — deterministic image palette extraction for CLI and design workflows.
+- **Solve a real annoyance.** Start with the problem and keep the first version focused.
+- **Make behavior understandable.** Prefer clear output, explicit controls, and useful documentation.
+- **Keep tools composable.** Build things that work from a terminal, in a workflow, or as part of a larger system.
+- **Learn by shipping.** Publish, listen, improve.
 
----
-
-## 06 / HOW I WORK
-
-> **Think deeply. Build quickly. Keep it replaceable.**
-
-I don't want a giant stack just because it's popular.
-
-I want the right tools, clean interfaces, understandable systems, and enough flexibility to change direction when the idea changes.
-
----
-
-## 07 / OUTSIDE CODE
-
-**Music**  
-Drake · Billie Eilish · Laufey
-
-**Movies**  
-Marvel
-
-**Games**  
-BeamNG · story-driven games
-
-**Chess**  
-Playing · studying · trying to get better
-
-**Weather**  
-Cold > Egyptian summer
-
----
-
-## 08 / FIND ME
+## Toolbox
 
 <div align="center">
 
-[![Discord](https://img.shields.io/badge/DISCORD-9p.1-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/9p.1)
-[![LinkedIn](https://img.shields.io/badge/LINKEDIN-MAHMOUD_AHMED-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mahmoud-ahmed-8a349842b/)
+<img src="https://skillicons.dev/icons?i=rust,go,python,typescript,react,nextjs,nodejs,git,github,figma&perline=10" alt="Rust, Go, Python, TypeScript, React, Next.js, Node.js, Git, GitHub, and Figma" />
+
+</div>
+
+## Contact
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Mahmoud_Ahmed-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mahmoud-ahmed-8a349842b/)
 
 </div>
 
@@ -131,6 +66,6 @@ Cold > Egyptian summer
 
 <img src="./assets/profile-frame.svg" alt="" width="100%" />
 
-**still building. still learning. still curious.**
+**Building useful things, one problem at a time.**
 
 </div>
