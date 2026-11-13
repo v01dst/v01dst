@@ -1,0 +1,90 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="200" viewBox="0 0 800 200" role="img" aria-labelledby="title desc">
+  <title id="title">Mahmoud Ahmed — animated header</title>
+  <desc id="desc">Animated gradient header with typing text effect.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#0D1117">
+        <animate attributeName="stop-color" values="#0D1117;#161B22;#0D1117" dur="6s" repeatCount="indefinite"/>
+      </stop>
+      <stop offset="100%" stop-color="#161B22">
+        <animate attributeName="stop-color" values="#161B22;#1F2937;#161B22" dur="6s" repeatCount="indefinite"/>
+      </stop>
+    </linearGradient>
+    <linearGradient id="accent" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#F97316">
+        <animate attributeName="stop-color" values="#F97316;#FB923C;#F97316" dur="3s" repeatCount="indefinite"/>
+      </stop>
+      <stop offset="100%" stop-color="#22D3EE">
+        <animate attributeName="stop-color" values="#22D3EE;#06B6D4;#22D3EE" dur="3s" repeatCount="indefinite"/>
+      </stop>
+    </linearGradient>
+    <filter id="glow">
+      <feGaussianBlur stdDeviation="3" result="coloredBlur"/>
+      <feMerge>
+        <feMergeNode in="coloredBlur"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+  </defs>
+  <rect width="800" height="200" rx="16" fill="url(#bg)"/>
+  <!-- animated dots -->
+  <g opacity="0.3">
+    <circle cx="50" cy="30" r="1.5" fill="#F97316">
+      <animate attributeName="cy" values="30;170;30" dur="8s" repeatCount="indefinite"/>
+      <animate attributeName="opacity" values="0.3;0.8;0.3" dur="8s" repeatCount="indefinite"/>
+    </circle>
+    <circle cx="150" cy="170" r="1" fill="#22D3EE">
+      <animate attributeName="cy" values="170;30;170" dur="7s" repeatCount="indefinite"/>
+      <animate attributeName="opacity" values="0.2;0.7;0.2" dur="7s" repeatCount="indefinite"/>
+    </circle>
+    <circle cx="250" cy="50" r="1.2" fill="#F97316">
+      <animate attributeName="cy" values="50;150;50" dur="9s" repeatCount="indefinite"/>
+    </circle>
+    <circle cx="350" cy="150" r="1" fill="#22D3EE">
+      <animate attributeName="cy" values="150;50;150" dur="6s" repeatCount="indefinite"/>
+    </circle>
+    <circle cx="450" cy="80" r="1.5" fill="#F97316">
+      <animate attributeName="cy" values="80;120;80" dur="5s" repeatCount="indefinite"/>
+    </circle>
+    <circle cx="550" cy="120" r="1" fill="#22D3EE">
+      <animate attributeName="cy" values="120;80;120" dur="7s" repeatCount="indefinite"/>
+    </circle>
+    <circle cx="650" cy="40" r="1.2" fill="#F97316">
+      <animate attributeName="cy" values="40;160;40" dur="8s" repeatCount="indefinite"/>
+    </circle>
+    <circle cx="750" cy="160" r="1" fill="#22D3EE">
+      <animate attributeName="cy" values="160;40;160" dur="6s" repeatCount="indefinite"/>
+    </circle>
+  </g>
+  <!-- main text with typing effect -->
+  <text x="400" y="95" text-anchor="middle" fill="#F0F6FC" font-family="Arial, Helvetica, sans-serif" font-size="36" font-weight="700" letter-spacing="2">
+    MAHMOUD AHMED
+    <animate attributeName="opacity" values="0;1" dur="1s" fill="freeze"/>
+  </text>
+  <!-- animated underline -->
+  <line x1="200" y1="110" x2="200" y2="110" stroke="url(#accent)" stroke-width="3" stroke-linecap="round">
+    <animate attributeName="x2" values="200;600" dur="1.5s" fill="freeze" begin="0.5s"/>
+  </line>
+  <!-- subtitle -->
+  <text x="400" y="145" text-anchor="middle" fill="#8B949E" font-family="monospace" font-size="14" letter-spacing="2">
+    SOFTWARE  ·  AI  ·  OPEN SOURCE
+    <animate attributeName="opacity" values="0;1" dur="1s" begin="1s" fill="freeze"/>
+  </text>
+  <!-- pulsing dots -->
+  <g filter="url(#glow)">
+    <circle cx="370" cy="170" r="4" fill="#F97316">
+      <animate attributeName="r" values="4;6;4" dur="2s" repeatCount="indefinite"/>
+      <animate attributeName="opacity" values="1;0.5;1" dur="2s" repeatCount="indefinite"/>
+    </circle>
+    <circle cx="400" cy="170" r="4" fill="#22D3EE">
+      <animate attributeName="r" values="4;6;4" dur="2s" begin="0.5s" repeatCount="indefinite"/>
+      <animate attributeName="opacity" values="1;0.5;1" dur="2s" begin="0.5s" repeatCount="indefinite"/>
+    </circle>
+    <circle cx="430" cy="170" r="4" fill="#F97316">
+      <animate attributeName="r" values="4;6;4" dur="2s" begin="1s" repeatCount="indefinite"/>
+      <animate attributeName="opacity" values="1;0.5;1" dur="2s" begin="1s" repeatCount="indefinite"/>
+    </circle>
+  </g>
+  <!-- border -->
+  <rect x="1" y="1" width="798" height="198" rx="15" fill="none" stroke="#30363D" stroke-width="1"/>
+</svg>
