@@ -1,6 +1,8 @@
 <body class="bg-white"> 
 <h1 align="left">Hi there, I'm Mahmoud</h1>
-<img align="right" height=250 width="" src="./homeanimation.gif" >
+<p align="center">
+  <img src="./assets/animated-header.svg" alt="Mahmoud Ahmed" width="800" />
+</p>
 <!-- <h3 align="left">I'm Mahmoud</h3> -->
 <h3 align="left">Software Engineer </h3> 
 <h3 align="left">Building developer tools, AI agents, and MCP infrastructure</h3> 
