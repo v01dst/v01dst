@@ -69,7 +69,6 @@ A local MCP proxy that reduces tool-catalog context while keeping your existing 
 Turn documentation URLs into lean, callable MCP tools—so agents can work with the docs they need without huge context dumps.
 
 [![GitHub stars](https://img.shields.io/github/stars/v01dst/mcp-forge?style=flat-square&label=stars)](https://github.com/v01dst/mcp-forge/stargazers)
-[![npm](https://img.shields.io/npm/v/mcp-forge?style=flat-square&label=npm)](https://www.npmjs.com/package/mcp-forge)
 
 </td>
 </tr>
@@ -87,6 +86,21 @@ Turn documentation URLs into lean, callable MCP tools—so agents can work with 
 <div align="center">
 
 [![All repositories](https://img.shields.io/badge/Explore-all%20repositories-c7f36b?style=for-the-badge&logo=github&logoColor=111111)](https://github.com/v01dst?tab=repositories)
+
+</div>
+
+---
+
+## GitHub stats
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=v01dst&show_icons=true&theme=transparent&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub stats for v01dst" height="165" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=v01dst&layout=compact&theme=transparent&hide_border=true&langs_count=8" alt="Top languages for v01dst" height="165" />
+
+<br />
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=v01dst&theme=transparent&hide_border=true" alt="GitHub streak for v01dst" />
 
 </div>
 
