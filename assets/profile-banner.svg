@@ -1,17 +1,42 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="310" viewBox="0 0 1200 310" role="img" aria-labelledby="title desc">
-<title id="title">Mahmoud Ahmed — software for builders</title>
-<desc id="desc">A clean ivory profile banner with a direct message and restrained blue and coral geometry.</desc>
-<rect width="1200" height="310" rx="20" fill="#F7F5EF"/>
-<rect x="1" y="1" width="1198" height="308" rx="19" fill="none" stroke="#D9DDE5" stroke-width="2"/>
-<rect x="44" y="44" width="5" height="222" rx="2.5" fill="#3D58C8"/>
-<text x="78" y="100" fill="#647084" font-family="monospace" font-size="13" letter-spacing="2.5">INDEPENDENT SOFTWARE BUILDER</text>
-<text x="76" y="166" fill="#1B2430" font-family="Arial, Helvetica, sans-serif" font-size="49" font-weight="700" letter-spacing="-1">Useful software for</text>
-<text x="76" y="222" fill="#1B2430" font-family="Arial, Helvetica, sans-serif" font-size="49" font-weight="700" letter-spacing="-1">people who build.</text>
-<text x="79" y="257" fill="#647084" font-family="Arial, Helvetica, sans-serif" font-size="16">Developer tools · AI agents · MCP</text>
-<circle cx="1007" cy="153" r="82" fill="#3D58C8"/>
-<circle cx="1007" cy="153" r="49" fill="#F7F5EF"/>
-<circle cx="1007" cy="153" r="17" fill="#EE765B"/>
-<path d="M1007 47V71M1007 235V259M901 153H925M1089 153H1113" stroke="#1B2430" stroke-width="2" stroke-linecap="round"/>
-<circle cx="1127" cy="71" r="7" fill="#EE765B"/>
-<circle cx="894" cy="236" r="5" fill="#EE765B"/>
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="320" viewBox="0 0 1200 320" role="img" aria-labelledby="title desc">
+  <title id="title">Mahmoud Ahmed — software for builders</title>
+  <desc id="desc">Ivory banner with blue accent, headline, and geometric reticle.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#F7F5EF"/>
+      <stop offset="1" stop-color="#EFECE2"/>
+    </linearGradient>
+    <linearGradient id="accent" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#3D58C8"/>
+      <stop offset="1" stop-color="#2A42A8"/>
+    </linearGradient>
+  </defs>
+  <rect width="1200" height="320" rx="22" fill="url(#bg)"/>
+  <rect x="1" y="1" width="1198" height="318" rx="21" fill="none" stroke="#D9DDE5" stroke-width="2"/>
+  <!-- left accent bar -->
+  <rect x="48" y="48" width="6" height="224" rx="3" fill="url(#accent)"/>
+  <!-- label -->
+  <text x="76" y="92" fill="#647084" font-family="monospace" font-size="13" letter-spacing="3">INDEPENDENT SOFTWARE BUILDER</text>
+  <!-- headline -->
+  <text x="74" y="156" fill="#1B2430" font-family="Arial, Helvetica, sans-serif" font-size="50" font-weight="700" letter-spacing="-1.5">Useful software for</text>
+  <text x="74" y="212" fill="#1B2430" font-family="Arial, Helvetica, sans-serif" font-size="50" font-weight="700" letter-spacing="-1.5">people who build.</text>
+  <!-- subtitle -->
+  <text x="77" y="248" fill="#647084" font-family="Arial, Helvetica, sans-serif" font-size="16">Developer tools  ·  AI agents  ·  MCP  ·  systems</text>
+  <!-- bottom accent -->
+  <path d="M76 268H260" stroke="#3D58C8" stroke-width="2" stroke-linecap="round"/>
+  <path d="M260 268H320" stroke="#EE765B" stroke-width="2" stroke-linecap="round"/>
+  <!-- right reticle -->
+  <g transform="translate(980,160)">
+    <circle r="92" fill="none" stroke="#D9DDE5" stroke-width="1.5"/>
+    <circle r="64" fill="none" stroke="#3D58C8" stroke-width="1.5" stroke-dasharray="4 6"/>
+    <circle r="36" fill="none" stroke="#3D58C8" stroke-width="2"/>
+    <circle r="14" fill="#EE765B"/>
+    <circle r="6" fill="#F7F5EF"/>
+    <path d="M0 -108V-96M0 96V108M-108 0H-96M96 0H108" stroke="#1B2430" stroke-width="2" stroke-linecap="round"/>
+    <path d="M-72 -72L-64 -64M64 64L72 72M-72 72L-64 64M64 -64L72 -72" stroke="#3D58C8" stroke-width="1.5" stroke-linecap="round"/>
+  </g>
+  <!-- corner accents -->
+  <circle cx="1130" cy="60" r="6" fill="#EE765B"/>
+  <circle cx="880" cy="260" r="4" fill="#3D58C8"/>
+  <circle cx="1140" cy="270" r="3" fill="#D9DDE5"/>
 </svg>
