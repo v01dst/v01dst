@@ -1,8 +1,6 @@
 <body class="bg-white"> 
 <h1 align="left">Hi there, I'm Mahmoud</h1>
-<p align="center">
-  <img src="./assets/animated-header.svg" alt="Mahmoud Ahmed" width="800" />
-</p>
+<img align="right" height=300 width="" src="./assets/coding.svg" >
 <!-- <h3 align="left">I'm Mahmoud</h3> -->
 <h3 align="left">Software Engineer </h3> 
 <h3 align="left">Building developer tools, AI agents, and MCP infrastructure</h3> 
@@ -54,4 +52,5 @@ involve me and I'll understand.</h3>
   <img src="./assets/animated-divider.svg" alt="divider" width="800" />
 </p>
 
+<!-- Illustration: "Programming" by Storyset (Freepik) — https://storyset.com/illustration/programming/amico -->
 </body>
