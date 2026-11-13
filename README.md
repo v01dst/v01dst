@@ -1,12 +1,13 @@
 <div align="center">
 
-<img src="./assets/profile-header.svg" alt="V01DST — Independent Software Builder" width="100%" />
+<img src="./assets/profile-header.svg" alt="Mahmoud Ahmed" width="100%" />
 
-<img src="./assets/profile-banner.svg" alt="Mahmoud Ahmed — Useful tools. Thoughtful systems." width="100%" />
+<img src="./assets/profile-banner.svg" alt="Independent software builder" width="100%" />
 
-<a href="https://discord.com/users/9p.1"><img src="https://img.shields.io/badge/Discord-9p.1-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord: 9p.1" /></a>
-<a href="https://x.com/Yove_evo"><img src="https://img.shields.io/badge/Follow-%40Yove__evo-111111?style=for-the-badge&logo=x&logoColor=white" alt="Follow @Yove_evo on X" /></a>
-<a href="https://www.linkedin.com/in/mahmoud-ahmed-8a349842b/"><img src="https://img.shields.io/badge/LinkedIn-Mahmoud_Ahmed-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="Mahmoud Ahmed on LinkedIn" /></a>
+<a href="https://mahmoud-ahmed-portfolio-six.vercel.app"><img src="https://img.shields.io/badge/Portfolio-1B2430?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" /></a>
+<a href="https://x.com/Yove_evo"><img src="https://img.shields.io/badge/X-@Yove__evo-111111?style=for-the-badge&logo=x&logoColor=white" alt="X" /></a>
+<a href="https://www.linkedin.com/in/mahmoud-ahmed-8a349842b/"><img src="https://img.shields.io/badge/LinkedIn-Mahmoud_Ahmed-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+<a href="https://discord.com/users/9p.1"><img src="https://img.shields.io/badge/Discord-9p.1-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" /></a>
 
 </div>
 
@@ -22,31 +23,37 @@
 
 ---
 
-## What I’m building
+## Now
 
-My work sits where **AI systems meet practical engineering**: tools that make agents easier to extend, observe, and use in real workflows. I care about local-first software, clear behavior, and shipping things people can try.
+- Shipping **AgentForge** — a model-agnostic agent runtime with a terminal UI, extensible tools, and permission controls.
+- Maintaining **CtxSlim** and **mcp-forge** — tools that keep MCP context lean.
+- Exploring local-first software and agent observability.
 
-## Featured projects
+## What I build
+
+My work sits where AI systems meet practical engineering: tools that make agents easier to extend, observe, and use in real workflows. I care about clear behavior, local-first data, and shipping things people can try.
+
+## Featured
 
 <table>
 <tr>
 <td width="50%" valign="top">
 
-### ⚒️ [AgentForge](https://github.com/v01dst/agentforge)
+### AgentForge
 
-A model-agnostic agent runtime and coding-agent platform. Build with a terminal UI, extensible tools, workflows, and permission controls.
+A model-agnostic agent runtime and coding-agent platform. Terminal UI, extensible tools, workflows, permission controls.
 
-[![GitHub stars](https://img.shields.io/github/stars/v01dst/agentforge?style=flat-square&label=stars)](https://github.com/v01dst/agentforge/stargazers)
+[![stars](https://img.shields.io/github/stars/v01dst/agentforge?style=flat-square&label=stars)](https://github.com/v01dst/agentforge/stargazers)
 [![npm](https://img.shields.io/npm/v/@agentforge-oss/cli?style=flat-square&label=npm)](https://www.npmjs.com/package/@agentforge-oss/cli)
 
 </td>
 <td width="50%" valign="top">
 
-### 👁️ [AgentWatch](https://github.com/v01dst/agentwatch)
+### AgentWatch
 
-Local-first observability and deterministic benchmarking for coding agents. See what an agent did and measure results with evidence.
+Local-first observability and deterministic benchmarking for coding agents. See what an agent did, measure with evidence.
 
-[![GitHub stars](https://img.shields.io/github/stars/v01dst/agentwatch?style=flat-square&label=stars)](https://github.com/v01dst/agentwatch/stargazers)
+[![stars](https://img.shields.io/github/stars/v01dst/agentwatch?style=flat-square&label=stars)](https://github.com/v01dst/agentwatch/stargazers)
 [![npm](https://img.shields.io/npm/v/@v01dst/agentwatch?style=flat-square&label=npm)](https://www.npmjs.com/package/@v01dst/agentwatch)
 
 </td>
@@ -54,34 +61,34 @@ Local-first observability and deterministic benchmarking for coding agents. See 
 <tr>
 <td width="50%" valign="top">
 
-### 🧠 [CtxSlim](https://github.com/v01dst/ctxslim)
+### CtxSlim
 
-A local MCP proxy that reduces tool-catalog context while keeping your existing servers in place.
+A local MCP proxy that cuts tool-catalog context by up to 72%. Zero config, zero API keys.
 
-[![GitHub stars](https://img.shields.io/github/stars/v01dst/ctxslim?style=flat-square&label=stars)](https://github.com/v01dst/ctxslim/stargazers)
+[![stars](https://img.shields.io/github/stars/v01dst/ctxslim?style=flat-square&label=stars)](https://github.com/v01dst/ctxslim/stargazers)
 [![npm](https://img.shields.io/npm/v/ctxslim?style=flat-square&label=npm)](https://www.npmjs.com/package/ctxslim)
 
 </td>
 <td width="50%" valign="top">
 
-### 🔌 [mcp-forge](https://github.com/v01dst/mcp-forge)
+### mcp-forge
 
-Turn documentation URLs into lean, callable MCP tools—so agents can work with the docs they need without huge context dumps.
+Turn documentation URLs into lean, callable MCP tools. No more 1M-token context dumps.
 
-[![GitHub stars](https://img.shields.io/github/stars/v01dst/mcp-forge?style=flat-square&label=stars)](https://github.com/v01dst/mcp-forge/stargazers)
+[![stars](https://img.shields.io/github/stars/v01dst/mcp-forge?style=flat-square&label=stars)](https://github.com/v01dst/mcp-forge/stargazers)
 
 </td>
 </tr>
 </table>
 
-### More tools
+### More
 
-[DevDating](https://github.com/v01dst/devdating) · discover open-source projects and good contribution issues  
-[sql-guard](https://github.com/v01dst/sql-guard) · catch risky SQL migrations before production  
-[sqlite-audit](https://github.com/v01dst/sqlite-audit) · inspect SQLite health and integrity in read-only mode  
-[paletteq](https://github.com/v01dst/paletteq) · extract deterministic color palettes from images  
-[whatport](https://github.com/v01dst/whatport) · look up ports and services offline  
-[lockscope](https://github.com/v01dst/lockscope) · understand package-lock changes at a glance
+[DevDating](https://github.com/v01dst/devdating) · discover projects and good first issues  
+[sql-guard](https://github.com/v01dst/sql-guard) · catch risky SQL migrations  
+[forgewatch](https://github.com/v01dst/forgewatch) · analyze project health locally  
+[snapmark](https://github.com/v01dst/snapmark) · local-first knowledge vault  
+[paletteq](https://github.com/v01dst/paletteq) · extract color palettes from images  
+[whatport](https://github.com/v01dst/whatport) · offline port lookup
 
 <div align="center">
 
@@ -91,47 +98,44 @@ Turn documentation URLs into lean, callable MCP tools—so agents can work with 
 
 ---
 
-## GitHub stats
+## Stack
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=v01dst&show_icons=true&theme=transparent&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub stats for v01dst" height="165" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=v01dst&layout=compact&theme=transparent&hide_border=true&langs_count=8" alt="Top languages for v01dst" height="165" />
+<img src="https://skillicons.dev/icons?i=rust,go,python,typescript,javascript,c,bash&perline=7" alt="Rust, Go, Python, TypeScript, JavaScript, C, Bash" />
 
 <br />
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=v01dst&theme=transparent&hide_border=true" alt="GitHub streak for v01dst" />
+<img src="https://img.shields.io/badge/SQL-334155?style=for-the-badge&logo=sqlite&logoColor=white" alt="SQL" />
+<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
+<img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js" />
+<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js" />
 
 </div>
 
 ---
 
-## Languages
+## GitHub stats
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=rust,go,python,typescript,javascript,c,bash&perline=7" alt="Rust, Go, Python, TypeScript, JavaScript, C, and Bash" />
+<img src="https://github-readme-stats.vercel.app/api?username=v01dst&show_icons=true&theme=transparent&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub stats" height="165" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=v01dst&layout=compact&theme=transparent&hide_border=true&langs_count=8" alt="Top languages" height="165" />
 
 <br />
 
-<img src="https://img.shields.io/badge/SQL-334155?style=for-the-badge&logo=sqlite&logoColor=white" alt="SQL" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=v01dst&theme=transparent&hide_border=true" alt="GitHub streak" />
 
 </div>
 
-## Tools & frameworks
-
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,git,github,figma&perline=6" alt="React, Next.js, Node.js, Git, GitHub, and Figma" />
-
-</div>
+---
 
 ## How I work
 
 - Find the real friction; build the smallest tool that removes it.
-- Make behavior clear, output useful, and controls explicit.
-- Keep projects composable, local-friendly, and easy to try.
-- Ship in the open, learn from use, and improve.
+- Make behavior clear, output useful, controls explicit.
+- Keep projects composable, local-friendly, easy to try.
+- Ship in the open, learn from use, improve.
 
 <img src="./assets/profile-frame.svg" alt="" width="100%" />
 
