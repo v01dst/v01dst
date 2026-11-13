@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="./assets/animated-header.svg" alt="Mahmoud Ahmed" width="800" />
+</p>
+
 <body class="bg-white"> 
 <h1 align="left">Hi there, I'm Mahmoud</h1>
 <!-- <h3 align="left">I'm Mahmoud</h3> -->
@@ -45,6 +49,10 @@ involve me and I'll understand.</h3>
  <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="docker" width="40" height="40"/></a> &nbsp;
 <a href="https://www.linux.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/></a> &nbsp;
 <a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="git" width="40" height="40"/></a> &nbsp;
+</p>
+
+<p align="center">
+  <img src="./assets/animated-divider.svg" alt="divider" width="800" />
 </p>
 
 </body>
