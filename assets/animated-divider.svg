@@ -1,0 +1,38 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="60" viewBox="0 0 800 60" role="img" aria-labelledby="title">
+  <title id="title">Animated divider</title>
+  <defs>
+    <linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#0D1117"/>
+      <stop offset="100%" stop-color="#161B22"/>
+    </linearGradient>
+    <linearGradient id="line" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#F97316">
+        <animate attributeName="stop-color" values="#F97316;#22D3EE;#F97316" dur="4s" repeatCount="indefinite"/>
+      </stop>
+      <stop offset="100%" stop-color="#22D3EE">
+        <animate attributeName="stop-color" values="#22D3EE;#F97316;#22D3EE" dur="4s" repeatCount="indefinite"/>
+      </stop>
+    </linearGradient>
+  </defs>
+  <rect width="800" height="60" rx="12" fill="url(#bg)"/>
+  <rect x="1" y="1" width="798" height="58" rx="11" fill="none" stroke="#30363D" stroke-width="1"/>
+  <!-- animated line -->
+  <line x1="40" y1="30" x2="40" y2="30" stroke="url(#line)" stroke-width="2.5" stroke-linecap="round">
+    <animate attributeName="x2" values="40;340;40" dur="3s" repeatCount="indefinite"/>
+  </line>
+  <line x1="460" y1="30" x2="460" y2="30" stroke="url(#line)" stroke-width="2.5" stroke-linecap="round">
+    <animate attributeName="x2" values="460;760;460" dur="3s" begin="1.5s" repeatCount="indefinite"/>
+  </line>
+  <!-- center dot -->
+  <circle cx="400" cy="30" r="5" fill="#F97316">
+    <animate attributeName="r" values="5;8;5" dur="2s" repeatCount="indefinite"/>
+    <animate attributeName="fill" values="#F97316;#22D3EE;#F97316" dur="4s" repeatCount="indefinite"/>
+  </circle>
+  <circle cx="372" cy="30" r="2" fill="#22D3EE">
+    <animate attributeName="r" values="2;3;2" dur="2s" begin="0.5s" repeatCount="indefinite"/>
+  </circle>
+  <circle cx="428" cy="30" r="2" fill="#22D3EE">
+    <animate attributeName="r" values="2;3;2" dur="2s" begin="1s" repeatCount="indefinite"/>
+  </circle>
+  <text x="400" y="34" text-anchor="middle" fill="#8B949E" font-family="monospace" font-size="10" letter-spacing="3">V01DST  /  ENGINEERING LOG</text>
+</svg>
