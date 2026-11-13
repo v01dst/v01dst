@@ -1,6 +1,6 @@
 <body class="bg-white"> 
 <h1 align="left">Hi there, I'm Mahmoud</h1>
-<img align="right" height=300 width="" src="./assets/coding.svg" >
+<img align="right" height=300 width="" src="./assets/coding-animated.svg" >
 <!-- <h3 align="left">I'm Mahmoud</h3> -->
 <h3 align="left">Software Engineer </h3> 
 <h3 align="left">Building developer tools, AI agents, and MCP infrastructure</h3> 
