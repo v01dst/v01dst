@@ -15,7 +15,7 @@ involve me and I'll understand.</h3>
 - 🌱 I'm currently learning **AI agents, MCP, systems programming, Rust**
 - 👯 I'm looking to collaborate on **open-source developer tools**
 - 💬 Ask me about **Rust, Go, TypeScript, Python, CLI tools, MCP**
-- 📫 Mail me at :- **v01dst@users.noreply.github.com**
+- 📫 Mail me at :- **evorenefounder@gmail.com**
 - ⚡ Fun fact: **I ship everything as a single binary or npm package, zero deps**
 
 <h3 align="left">Connect with me: </h3>
